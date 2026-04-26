@@ -19,8 +19,8 @@ The intent is to support consistent tracking across:
   - `senate-GE.csv` — Senate general election tracker (incumbent info, primary date/completion, notable challengers placeholders, and rating fields).
 
 - `house-elections/`  
-  Placeholder directory for House election tracking data (district-level).  
-  *(Planned: district-by-district expectation + results files.)*
+  House election tracking data.
+  - `house-GE.csv` - House general election tracker (incumbent info, primary date/completion, notable challengers, and rating fields).
 
 - `2026-midterms.Rproj`  
   RStudio project file for working with this repo in R/RStudio.
@@ -73,11 +73,11 @@ Contains fields for:
 To fully support “every state and district” tracking, likely next additions include:
 
 ### House tracking file(s)
-A canonical district-level file, e.g.
+A canonical district-level file
 - `house-elections/house-GE.csv`
 
-Suggested minimum columns:
-- `State`, `District` (or a combined key like `CA-13`)
+Columns:
+- `State`, `District`
 - incumbent name/party, whether running
 - primary date and primary completion status (optional but useful)
 - notable challengers
