@@ -1,1030 +1,1006 @@
-state,district,name,incumbent,primary_date,status
-AL,1,Jerry Carl,No,2026-05-19,
-AL,1,James Dees,No,2026-05-19,
-AL,1,Rhett Marques,No,2026-05-19,
-AL,1,Joshua McKee,No,2026-05-19,
-AL,1,John Mills,No,2026-05-19,
-AL,1,James Richardson,No,2026-05-19,
-AL,1,Austin Sidwell,No,2026-05-19,
-AL,3,Mike Rogers,Yes,2026-05-19,
-AL,3,Terri LaPoint,No,2026-05-19,
-AL,4,Robert Aderholt,Yes,2026-05-19,
-AL,4,Tommy Barnes,No,2026-05-19,
-AL,6,Gary Palmer,Yes,2026-05-19,
-AL,6,Case Dixon,No,2026-05-19,
-AK,1,Nicholas Begich,Yes,2026-08-18,
-AZ,1,Joseph Chaplik,No,2026-07-21,
-AZ,1,Jason Duey,No,2026-07-21,
-AZ,1,Jay Feely,No,2026-07-21,
-AZ,1,Derrick Gallego,No,2026-07-21,
-AZ,1,Kaitlin Purrington,No,2026-07-21,
-AZ,1,Paul Reevs,No,2026-07-21,
-AZ,1,Brandon Sowers,No,2026-07-21,
-AZ,1,John Trobough,No,2026-07-21,
-AZ,2,Eli Crane,Yes,2026-07-21,
-AZ,3,Kirt Burgess,No,2026-07-21,
-AZ,3,Nicholas Glenn,No,2026-07-21,
-AZ,4,Bradley Honer,No,2026-07-21,
-AZ,4,Zuhdi Jasser,No,2026-07-21,
-AZ,4,Elizabeth Reye,No,2026-07-21,
-AZ,4,Alex Stovall,No,2026-07-21,
-AZ,5,Travis Grantham,No,2026-07-21,
-AZ,5,Mike Gross,No,2026-07-21,
-AZ,5,Daniel Keenan,No,2026-07-21,
-AZ,5,Mark Lamb,No,2026-07-21,
-AZ,6,Juan Ciscomani,Yes,2026-07-21,
-AZ,7,Daniel Butierez Sr.,No,2026-07-21,
-AZ,8,Abraham Hamadeh,Yes,2026-07-21,
-AZ,8,Amanda Rose,No,2026-07-21,
-AZ,9,Paul Gosar,Yes,2026-07-21,
-AZ,9,Teresa Volesky,No,2026-07-21,
-AR,2,French Hill,Yes,2026-03-03,
-AR,2,Chase McDowell,No,2026-03-03,
-CA,1,James Gallagher,No,2026-06-02,
-CA,1,Jot Thiara,No,2026-06-02,
-CA,1,James Gallagher,No,2026-06-02,
-CA,2,Tim Geist,No,2026-06-02,
-CA,2,Robin Littau,No,2026-06-02,
-CA,2,Paul Saulsbury,No,2026-06-02,
-CA,2,Angelita Valles,No,2026-06-02,
-CA,3,Christine Bish,No,2026-06-02,
-CA,3,Laura Koscki,No,2026-06-02,
-CA,3,Robb Tucker,No,2026-06-02,
-CA,4,Sharon Brown,No,2026-06-02,
-CA,4,Mandy Ghusar,No,2026-06-02,
-CA,4,Jimih Jones,No,2026-06-02,
-CA,4,L. John MacKenzie,No,2026-06-02,
-CA,4,Raymond Riehle,No,2026-06-02,
-CA,4,Chuck Uribe,No,2026-06-02,
-CA,5,Tom McClintock,Yes,2026-06-02,
-CA,6,Michael Stansfield,No,2026-06-02,
-CA,7,Ralph Nwobi,No,2026-06-02,
-CA,7,Zachariah Wooden,No,2026-06-02,
-CA,8,Rudy Recile,No,2026-06-02,
-CA,9,Khalid Jeffrey Jafri,No,2026-06-02,
-CA,9,John McBride,No,2026-06-02,
-CA,9,Parminder Singh,No,2026-06-02,
-CA,9,Martin Veprauskas,No,2026-06-02,
-CA,10,Jeffrey Frese,No,2026-06-02,
-CA,10,Angela Griffiths,No,2026-06-02,
-CA,10,Katherine Piccinini,No,2026-06-02,
-CA,11,David Ganezer,No,2026-06-02,
-CA,11,Jingchao Xiong,No,2026-06-02,
-CA,13,Vin Kruttiventi,No,2026-06-02,
-CA,13,Kevin Lincoln II,No,2026-06-02,
-CA,14,Wendy Huang,No,2026-06-02,
-CA,14,Dena Maldonado,No,2026-06-02,
-CA,15,Charles Hoelter,No,2026-06-02,
-CA,16,Kevin Johnson,No,2026-06-02,
-CA,16,Peter Soule,No,2026-06-02,
-CA,17,Jennie Ha Phan,No,2026-06-02,
-CA,17,Ritesh Tandon,No,2026-06-02,
-CA,18,Shane Lewis,No,2026-06-02,
-CA,19,Tuka Gafari,No,2026-06-02,
-CA,19,Peter Verbica,No,2026-06-02,
-CA,20,Vince Fong,Yes,2026-06-02,
-CA,21,Kyle Kirkland,No,2026-06-02,
-CA,21,Lorenzo Rios,No,2026-06-02,
-CA,22,David G. Valadao,Yes,2026-06-02,
-CA,23,Jay Obernolte,Yes,2026-06-02,
-CA,24,Bob Smith,No,2026-06-02,
-CA,25,Ronald Huffman,No,2026-06-02,
-CA,25,Joe Males,No,2026-06-02,
-CA,25,Ceci Andrade Truman,No,2026-06-02,
-CA,26,Samuel Gallucci,No,2026-06-02,
-CA,26,Michael Koslow,No,2026-06-02,
-CA,26,Daniel Miller,No,2026-06-02,
-CA,26,William Scott,No,2026-06-02,
-CA,27,Jason Gibbs,No,2026-06-02,
-CA,28,April Verlato,No,2026-06-02,
-CA,29,Rudy Melendez,No,2026-06-02,
-CA,30,Dennis Feitosa,No,2026-06-02,
-CA,30,Scott Meyers,No,2026-06-02,
-CA,31,Eric Ching,No,2026-06-02,
-CA,31,Erskine Levi,No,2026-06-02,
-CA,32,Larry Thompson,No,2026-06-02,
-CA,33,Tom Herman,No,2026-06-02,
-CA,33,Ernest Richter,No,2026-06-02,
-CA,33,Stephanie Vargas,No,2026-06-02,
-CA,33,Eugene Weems,No,2026-06-02,
-CA,34,Calvin Lee,No,2026-06-02,
-CA,35,Mike Cargile,No,2026-06-02,
-CA,36,Houston Brignano,No,2026-06-02,
-CA,36,Melissa Toomim,No,2026-06-02,
-CA,37,Baltazar Fedalizo,No,2026-06-02,
-CA,38,Pedro Casas,No,2026-06-02,
-CA,39,Steve Manos,No,2026-06-02,
-CA,40,Ken Calvert,Yes,2026-06-02,
-CA,40,Young Kim,Yes,2026-06-02,
-CA,41,Mitch Clemmons,No,2026-06-02,
-CA,42,Noah Blom,No,2026-06-02,
-CA,42,Brian Burley,No,2026-06-02,
-CA,42,Long Pham,No,2026-06-02,
-CA,43,Cristian Morales,No,2026-06-02,
-CA,44,Genevieve Angel,No,2026-06-02,
-CA,45,Mark Leonard,No,2026-06-02,
-CA,45,Chi Charlie Nguyen,No,2026-06-02,
-CA,45,Amy Phan West,No,2026-06-02,
-CA,45,Chuong Vo,No,2026-06-02,
-CA,45,Tom Vo,No,2026-06-02,
-CA,46,David Pan,No,2026-06-02,
-CA,47,William Brough,No,2026-06-02,
-CA,47,Christopher Gonzales,No,2026-06-02,
-CA,47,Jenny Rae Le Roux,No,2026-06-02,
-CA,47,Michael Maxsenti,No,2026-06-02,
-CA,48,Jim Desmond,No,2026-06-02,
-CA,48,Kevin O'Neil,No,2026-06-02,
-CA,49,Armen Kurdian,No,2026-06-02,
-CA,49,Star Parker,No,2026-06-02,
-CA,50,Steve Cohen,No,2026-06-02,
-CA,51,Ricardo Cabrera,No,2026-06-02,
-CA,52,Jeff Belle,No,2026-06-02,
-CO,1,Gregory Cutlip,No,2026-06-30,
-CO,1,Christy Peterson,No,2026-06-30,
-CO,2,Christina Blunt,No,2026-06-30,
-CO,2,Kelley Dennison,No,2026-06-30,
-CO,3,Jeff Hurd,Yes,2026-06-30,
-CO,3,Hope Scheppelman,No,2026-06-30,
-CO,4,Lauren Boebert,Yes,2026-06-30,
-CO,4,Eric Phelan,No,2026-06-30,
-CO,4,Eric San Felipe,No,2026-06-30,
-CO,5,Jeff Crank,Yes,2026-06-30,
-CO,6,Khaleb Dammen,No,2026-06-30,
-CO,7,Timothy Bennett,No,2026-06-30,
-CO,7,Amanda Capobianco,No,2026-06-30,
-CO,8,Gabe Evans,Yes,2026-06-30,
-CO,8,Adam DeRito,No,2026-06-30,
-CT,1,Amy Chai,No,2026-08-11,
-CT,2,George Austin,No,2026-08-11,
-CT,2,Mike France,No,2026-08-11,
-CT,2,Sean Randall,No,2026-08-11,
-CT,3,Rafael Irizarry,No,2026-08-11,
-CT,3,Christopher Lancia,No,2026-08-11,
-CT,4,Luz Bueno,No,2026-08-11,
-CT,4,Michael Goldstein,No,2026-08-11,
-CT,4,Daniel Miressi,No,2026-08-11,
-CT,5,Michele Botelho,No,2026-08-11,
-CT,5,Jonathan De Barros,No,2026-08-11,
-CT,5,Chris Shea,No,2026-08-11,
-DE,1,Earl Cooper,No,2026-09-15,
-DE,1,Donyale Hall,No,2026-09-15,
-DE,1,Lee Murphy,No,2026-09-15,
-DC,1,Denise Rosado,No,2026-06-06,
-FL,1,Jimmy Patronis,Yes,2026-08-18,
-FL,1,Cedric Alexander,No,2026-08-18,
-FL,1,Douglas Chico,No,2026-08-18,
-FL,1,Aaron Dimmock,No,2026-08-18,
-FL,1,John Frankman,No,2026-08-18,
-FL,1,Charles Keebaugh,No,2026-08-18,
-FL,1,Bernadette Pittman,No,2026-08-18,
-FL,1,Tayla Plumer,No,2026-08-18,
-FL,1,Gene Valentino,No,2026-08-18,
-FL,2,Keith Gross,No,2026-08-18,
-FL,2,George Hensarling,No,2026-08-18,
-FL,2,Lee Jones,No,2026-08-18,
-FL,2,Nicholas Lewis,No,2026-08-18,
-FL,2,Nick Lewis,No,2026-08-18,
-FL,2,Luke Murphy,No,2026-08-18,
-FL,2,Jim Norton,No,2026-08-18,
-FL,2,Evan Power,No,2026-08-18,
-FL,2,Austin Rogers,No,2026-08-18,
-FL,2,Audie Rowell,No,2026-08-18,
-FL,3,Kat Cammack,Yes,2026-08-18,
-FL,4,Aaron Bean,Yes,2026-08-18,
-FL,4,Anthony Valerio,No,2026-08-18,
-FL,5,John Rutherford,Yes,2026-08-18,
-FL,5,Mark Kaye,No,2026-08-18,
-FL,5,Donald Muirheid,No,2026-08-18,
-FL,6,Randy Fine,Yes,2026-08-18,
-FL,6,Ernest Audino,No,2026-08-18,
-FL,6,Aaron Baker,No,2026-08-18,
-FL,6,Daniel Bilzerian,No,2026-08-18,
-FL,6,Charles Gambaro,No,2026-08-18,
-FL,6,Alexandra van Cleef,No,2026-08-18,
-FL,7,Cory Mills,Yes,2026-08-18,
-FL,7,Michael Johnson,No,2026-08-18,
-FL,7,Sarah Ulrich,No,2026-08-18,
-FL,8,Mike Haridopolos,Yes,2026-08-18,
-FL,9,Marcus Carter,No,2026-08-18,
-FL,9,Thomas Chalifoux,No,2026-08-18,
-FL,9,Jorge Malavet,No,2026-08-18,
-FL,9,Howard Steven Rance,No,2026-08-18,
-FL,9,Justin Story,No,2026-08-18,
-FL,10,Stuart Farber,No,2026-08-18,
-FL,10,Willie Montague,No,2026-08-18,
-FL,10,Vibert White,No,2026-08-18,
-FL,11,Daniel Webster,Yes,2026-08-18,
-FL,11,Steve Farley,No,2026-08-18,
-FL,11,Ivette Palomo,No,2026-08-18,
-FL,11,Tim Wilkins,No,2026-08-18,
-FL,11,Mike Wilnau,No,2026-08-18,
-FL,12,Gus M. Bilirakis,Yes,2026-08-18,
-FL,13,Anna Paulina Luna,Yes,2026-08-18,
-FL,13,Njällssen Amaro Lionheart,No,2026-08-18,
-FL,13,Courtney Offutt,No,2026-08-18,
-FL,14,Michael Marcel,No,2026-08-18,
-FL,14,Erik Mishiyev,No,2026-08-18,
-FL,14,Robert Rochford,No,2026-08-18,
-FL,14,Gavriel E. Soriano,No,2026-08-18,
-FL,14,Dan Weldon,No,2026-08-18,
-FL,14,Shay Williams,No,2026-08-18,
-FL,15,Laurel Lee,Yes,2026-08-18,
-FL,16,Sydney Gruters,No,2026-08-18,
-FL,16,John Peters,No,2026-08-18,
-FL,16,Ed Pope,No,2026-08-18,
-FL,16,Eddie Speir,No,2026-08-18,
-FL,17,Greg Steube,Yes,2026-08-18,
-FL,18,Scott Franklin,Yes,2026-08-18,
-FL,19,Madison Cawthorn,No,2026-08-18,
-FL,19,Chris Collins,No,2026-08-18,
-FL,19,John Fratto,No,2026-08-18,
-FL,19,Ola Hawatmeh,No,2026-08-18,
-FL,19,Catalina Lauf,No,2026-08-18,
-FL,19,Dylan Modarelli,No,2026-08-18,
-FL,19,Jim Oberweis,No,2026-08-18,
-FL,19,Mike Pedersen,No,2026-08-18,
-FL,19,Linda Sawyer,No,2026-08-18,
-FL,19,Jim Schwartzel,No,2026-08-18,
-FL,19,Louis Shenker,No,2026-08-18,
-FL,19,John Strand,No,2026-08-18,
-FL,19,Richard Youschak,No,2026-08-18,
-FL,20,Sendra Dorce,No,2026-08-18,
-FL,20,Lateresa Jones,No,2026-08-18,
-FL,20,Rod Joseph,No,2026-08-18,
-FL,21,Brian Mast,Yes,2026-08-18,
-FL,22,Deborah Adeimy,No,2026-08-18,
-FL,22,Paola Branda,No,2026-08-18,
-FL,22,David Burck,No,2026-08-18,
-FL,22,Steven Crowley,No,2026-08-18,
-FL,22,Dan Franzese,No,2026-08-18,
-FL,22,Anna Medvedeva,No,2026-08-18,
-FL,22,Antonio Srado,No,2026-08-18,
-FL,22,Herbert Wertheim,No,2026-08-18,
-FL,23,Darlene Cerezo Swaffar,No,2026-08-18,
-FL,23,Jared Gurfein,No,2026-08-18,
-FL,23,Raven Harrison,No,2026-08-18,
-FL,23,Joe Kaufman,No,2026-08-18,
-FL,23,George Moraitis,No,2026-08-18,
-FL,23,Rafael Ortiz,No,2026-08-18,
-FL,23,Scott Singer,No,2026-08-18,
-FL,24,Patricia Gonzalez,No,2026-08-18,
-FL,24,Imtiaz Mohammad,No,2026-08-18,
-FL,25,Michael Carbonara,No,2026-08-18,
-FL,25,Claudia Villatoro,No,2026-08-18,
-FL,26,Mario Diaz-Balart,Yes,2026-08-18,
-FL,27,Maria Elvira Salazar,Yes,2026-08-18,
-FL,27,V. Michael Arias,No,2026-08-18,
-FL,27,Gavin Solomon,No,2026-08-18,
-FL,28,Carlos Gimenez,Yes,2026-08-18,
-FL,28,Royland Lara,No,2026-08-18,
-FL,28,Herrera Macuran,No,2026-08-18,
-GA,1,Patrick Farrell,No,2026-05-19,
-GA,1,James Kingston,No,2026-05-19,
-GA,1,Brian Montgomery,No,2026-05-19,
-GA,1,Krista Penn,No,2026-05-19,
-GA,1,Kandiss Taylor,No,2026-05-19,
-GA,1,Eugene Yu,No,2026-05-19,
-GA,2,Matt Day,No,2026-05-19,
-GA,3,Brian Jack,Yes,2026-05-19,
-GA,4,James Duffie,No,2026-05-19,
-GA,5,John Salvesen,No,2026-05-19,
-GA,6,Kevin Martin,No,2026-05-19,
-GA,6,Justin Pinker,No,2026-05-19,
-GA,7,Rich McCormick,Yes,2026-05-19,
-GA,8,Austin Scott,Yes,2026-05-19,
-GA,9,Andrew Clyde,Yes,2026-05-19,
-GA,9,Sam Couvillon,No,2026-05-19,
-GA,9,Gregg Poole,No,2026-05-19,
-GA,10,Jeff Baker,No,2026-05-19,
-GA,10,Houston Gaines,No,2026-05-19,
-GA,10,Ryan Millsap,No,2026-05-19,
-GA,11,Rob Adkerson,No,2026-05-19,
-GA,11,William Brown,No,2026-05-19,
-GA,11,Lisa Carlquist,No,2026-05-19,
-GA,11,John Cowan,No,2026-05-19,
-GA,11,John Hobbs,No,2026-05-19,
-GA,11,Uloma Ekpete Kama,No,2026-05-19,
-GA,11,Chris Mora,No,2026-05-19,
-GA,11,Tricia Pridemore,No,2026-05-19,
-GA,12,Rick Allen,Yes,2026-05-19,
-GA,12,Tori Branum,No,2026-05-19,
-GA,13,Jonathan Chavez,No,2026-05-19,
-GA,14,Clayton Fuller,Yes,2026-05-19,
-GA,14,Star Black,No,2026-05-19,
-GA,14,Reagan Box,No,2026-05-19,
-GA,14,Beau Brown,No,2026-05-19,
-GA,14,Eric Cunningham,No,2026-05-19,
-GA,14,Tom Gray,No,2026-05-19,
-GA,14,Nicky Lama,No,2026-05-19,
-GA,14,Colton Moore,No,2026-05-19,
-GA,14,Brian Stover,No,2026-05-19,
-GA,14,James Tully,No,2026-05-19,
-NA,1,James Moylan,Yes,,
-HI,1,Maxwell Frazier,No,2026-08-08,
-HI,1,Adriel Lam,No,2026-08-08,
-HI,2,Brenton Awa,No,2026-08-08,
-ID,1,Russ Fulcher,Yes,2026-05-19,
-ID,1,Andy Briner,No,2026-05-19,
-ID,1,Joseph Morrison,No,2026-05-19,
-ID,2,Michael K. Simpson,Yes,2026-05-19,
-ID,2,Brian Keene,No,2026-05-19,
-ID,2,Perry Shumway,No,2026-05-19,
-IL,1,Christian Maxwell,No,2026-03-17,
-IL,1,Marcus Lewis,No,2026-03-17,
-IL,2,Mike Noack,No,2026-03-17,
-IL,3,Angel Oakley,No,2026-03-17,
-IL,4,Lupe Castillo,No,2026-03-17,
-IL,5,Tom Hanson,No,2026-03-17,
-IL,5,Kimball Ladien,No,2026-03-17,
-IL,5,Barry Wicker,No,2026-03-17,
-IL,6,Niki Conforti,No,2026-03-17,
-IL,6,Skylar Duensing,No,2026-03-17,
-IL,7,Chad Koppie,No,2026-03-17,
-IL,7,Patricia Easley,No,2026-03-17,
-IL,8,Jennifer Davis,No,2026-03-17,
-IL,8,Kevin Ake,No,2026-03-17,
-IL,8,Herbert Hebein,No,2026-03-17,
-IL,8,Mark Rice,No,2026-03-17,
-IL,9,John Elleson,No,2026-03-17,
-IL,9,Rocio Cleveland,No,2026-03-17,
-IL,9,Paul Friedman,No,2026-03-17,
-IL,9,Mark Su,No,2026-03-17,
-IL,10,Carl Lambrecht,No,2026-03-17,
-IL,11,Jeffrey Walter,No,2026-03-17,
-IL,11,Tedora Brown,No,2026-03-17,
-IL,11,Charlie Kim,No,2026-03-17,
-IL,11,Mike Pierce,No,2026-03-17,
-IL,12,Mike Bost,Yes,2026-03-17,
-IL,13,Jeff Wilson,No,2026-03-17,
-IL,13,Joshua Loyd,No,2026-03-17,
-IL,14,James Marter,No,2026-03-17,
-IL,14,Krystal Dorey,No,2026-03-17,
-IL,14,Gary Vician,No,2026-03-17,
-IL,15,Mary Miller,Yes,2026-03-17,
-IL,15,Judy Bowlby,No,2026-03-17,
-IL,15,Ryan Tebrugge,No,2026-03-17,
-IL,16,Darin LaHood,Yes,2026-03-17,
-IL,17,Dillan Vancil,No,2026-03-17,
-IL,17,Julie Bickelhaupt,No,2026-03-17,
-IN,1,Barb Regnitz,No,2026-05-05,
-IN,1,David Ben Ruiz,No,2026-05-05,
-IN,1,James Schenke,No,2026-05-05,
-IN,2,Rudy Yakym,Yes,2026-05-05,
-IN,3,Marlin A. Stutzman,Yes,2026-05-05,
-IN,3,Jon Kenworthy,No,2026-05-05,
-IN,4,Jim Baird,Yes,2026-05-05,
-IN,4,Craig Haggard,No,2026-05-05,
-IN,4,John Piper,No,2026-05-05,
-IN,5,Victoria Spartz,Yes,2026-05-05,
-IN,5,Scott King,No,2026-05-05,
-IN,6,Jefferson Shreve,Yes,2026-05-05,
-IN,6,Sarah Brown,No,2026-05-05,
-IN,7,Patrick McAuley,No,2026-05-05,
-IN,7,Felipe Rios,No,2026-05-05,
-IN,8,Mark Messmer,Yes,2026-05-05,
-IN,9,Erin Houchin,Yes,2026-05-05,
-IA,1,Mariannette Miller-Meeks,Yes,2026-06-02,
-IA,1,David Pautsch,No,2026-06-02,
-IA,2,Charlie McClintock,No,2026-06-02,
-IA,2,Joe Mitchell,No,2026-06-02,
-IA,3,Zach Nunn,Yes,2026-06-02,
-IA,4,Chris McGowan,No,2026-06-02,
-KS,1,Tracey Mann,Yes,2026-08-04,
-KS,2,Derek Schmidt,Yes,2026-08-04,
-KS,3,Chase LaPorte,No,2026-08-04,
-KS,3,Blake Stanley,No,2026-08-04,
-KS,4,Ron Estes,Yes,2026-08-04,
-KY,1,James Comer Jr.,Yes,2026-05-19,
-KY,1,Penny Arcos,No,2026-05-19,
-KY,1,David Sims,No,2026-05-19,
-KY,1,Robert James Sutherby,No,2026-05-19,
-KY,2,Brett Guthrie,Yes,2026-05-19,
-KY,2,G. Perry Adelmann,No,2026-05-19,
-KY,2,Joshua Ferguson,No,2026-05-19,
-KY,3,Daniel Cobble,No,2026-05-19,
-KY,3,David Nichter,No,2026-05-19,
-KY,3,Donald Pay,No,2026-05-19,
-KY,3,Maria Teresa Rodriguez,No,2026-05-19,
-KY,4,Thomas Massie,Yes,2026-05-19,
-KY,4,Ed Gallrein,No,2026-05-19,
-KY,5,Hal Rogers,Yes,2026-05-19,
-KY,5,Benjamin Hurley,No,2026-05-19,
-KY,5,Brandon Monhollen,No,2026-05-19,
-KY,5,Jerry Shelton,No,2026-05-19,
-KY,5,Kevin Smith,No,2026-05-19,
-KY,6,Ralph Alvarado,No,2026-05-19,
-KY,6,Ryan Dotson,No,2026-05-19,
-KY,6,Adam Perez Arquette,No,2026-05-19,
-KY,6,Greg Plucinski,No,2026-05-19,
-KY,6,Steve Shannon,No,2026-05-19,
-LA,1,Steve Scalise,Yes,2026-05-16,
-LA,1,Randall Arrington,No,2026-05-16,
-LA,4,Mike Johnson,Yes,2026-05-16,
-LA,4,Joshua Morott,No,2026-05-16,
-LA,4,Mike Nichols,No,2026-05-16,
-LA,5,Misti Cordell,No,2026-05-16,
-LA,5,Michael Echols,No,2026-05-16,
-LA,5,Rick Edmonds,No,2026-05-16,
-LA,5,Austin Magee,No,2026-05-16,
-LA,5,Michael Mebruer,No,2026-05-16,
-LA,5,Blake Miguez,No,2026-05-16,
-LA,5,Samuel Wyatt,No,2026-05-16,
-LA,6,Monique Appeaning,No,2026-05-16,
-LA,6,Larry Davis,No,2026-05-16,
-LA,6,Christian Johnson,No,2026-05-16,
-LA,6,Peter Williams,No,2026-05-16,
-ME,1,Joshua Pietrowicz,No,2026-06-09,
-ME,1,Ronald C. Russell,No,2026-06-09,
-ME,2,Paul LePage,No,2026-06-09,
-MD,1,Andrew Harris,Yes,2026-06-23,
-MD,1,Christopher Bruneau,No,2026-06-23,
-MD,2,Nnabu Eze,No,2026-06-23,
-MD,2,Dave Wallace,No,2026-06-23,
-MD,3,Ray Bly,No,2026-06-23,
-MD,3,Bernard Flowers,No,2026-06-23,
-MD,3,Felix Seier,No,2026-06-23,
-MD,3,John White,No,2026-06-23,
-MD,4,George McDermott,No,2026-06-23,
-MD,5,Chris Chaffee,No,2026-06-23,
-MD,5,Bryan Duval Cubero,No,2026-06-23,
-MD,5,Michelle Talkington,No,2026-06-23,
-MD,6,Christopher Burnett,No,2026-06-23,
-MD,6,Robin Ficker,No,2026-06-23,
-MD,6,Mariela Roca,No,2026-06-23,
-MD,7,Scott Collier,No,2026-06-23,
-MD,8,Anita Cox,No,2026-06-23,
-MD,8,Donald Lech,No,2026-06-23,
-MD,8,Cheryl Riley,No,2026-06-23,
-MD,8,Michael Yadeta,No,2026-06-23,
-MA,3,Gary Grossi,No,2026-09-01,
-MA,4,Thomas Stalcup,No,2026-09-01,
-MA,6,John Field,No,2026-09-01,
-MA,6,Micah Jones,No,2026-09-01,
-MA,8,Walter Grochowski,No,2026-09-01,
-MA,9,Robert MacAllister,No,2026-09-01,
-MI,1,Jack Bergman,Yes,2026-08-04,
-MI,1,Matthew DenOtter,No,2026-08-04,
-MI,1,Justin Michal,No,2026-08-04,
-MI,2,John Moolenaar,Yes,2026-08-04,
-MI,3,Ryan Cushman,No,2026-08-04,
-MI,3,Terri DeBoer,No,2026-08-04,
-MI,3,J. Allen Fiorletta,No,2026-08-04,
-MI,4,Bill Huizenga,Yes,2026-08-04,
-MI,4,Philip Tanis,No,2026-08-04,
-MI,5,Tim Walberg,Yes,2026-08-04,
-MI,6,Heather Smiley,No,2026-08-04,
-MI,7,Tom Barrett,Yes,2026-08-04,
-MI,8,Amir Hassan,No,2026-08-04,
-MI,8,Al Lemmo,No,2026-08-04,
-MI,8,Thomas J. Smith,No,2026-08-04,
-MI,9,Lisa McClain,Yes,2026-08-04,
-MI,10,John James,Yes,2026-08-04,
-MI,10,Casey Armitage,No,2026-08-04,
-MI,10,Michael Bouchard,No,2026-08-04,
-MI,10,Steffan Demetropoulos,No,2026-08-04,
-MI,10,Steven Elliott,No,2026-08-04,
-MI,10,Cody Ingram,No,2026-08-04,
-MI,10,Justin Kirk,No,2026-08-04,
-MI,10,Robert Lulgjuraj,No,2026-08-04,
-MI,11,Ethan Baker,No,2026-08-04,
-MI,11,Anthony Paesano,No,2026-08-04,
-MI,11,Michael Steger,No,2026-08-04,
-MI,12,James Hooper,No,2026-08-04,
-MI,13,Martell Bivings,No,2026-08-04,
-MI,13,Articia Bomer,No,2026-08-04,
-MI,13,Raphiel King,No,2026-08-04,
-MI,13,Andrew Lorenz,No,2026-08-04,
-MI,13,Taras Nykoriak,No,2026-08-04,
-MN,1,Brad Finstad,Yes,2026-08-11,
-MN,2,Eric Pratt,No,2026-08-11,
-MN,3,Tyler Bass,No,2026-08-11,
-MN,3,Jeremy Westby,No,2026-08-11,
-MN,4,Paul Wikstrom,No,2026-08-11,
-MN,4,Paul Xiong,No,2026-08-11,
-MN,5,John Nagel,No,2026-08-11,
-MN,5,Angela Marie Walls-Windhauser,No,2026-08-11,
-MN,5,Dalia al-Aqidi,No,2026-08-11,
-MN,6,Tom Emmer,Yes,2026-08-11,
-MN,6,Michael Foley,No,2026-08-11,
-MN,7,Michelle Fischbach,Yes,2026-08-11,
-MN,7,Dave Hughes,No,2026-08-11,
-MN,8,Pete Stauber,Yes,2026-08-11,
-MS,1,Trent Kelly,Yes,2026-03-10,
-MS,2,Ron Eller,No,2026-03-10,
-MS,2,Kevin Wilson,No,2026-03-10,
-MS,3,Michael Guest,Yes,2026-03-10,
-MS,4,Mike Ezell,Yes,2026-03-10,
-MS,4,Sawyer Walters,No,2026-03-10,
-MO,1,Paul Berry,No,2026-08-04,
-MO,1,Andrew Jones Jr.,No,2026-08-04,
-MO,2,Ann Wagner,Yes,2026-08-04,
-MO,2,Matthew Grant,No,2026-08-04,
-MO,2,Peter Pfeifer,No,2026-08-04,
-MO,2,Elizabeth Sparks-Holmes,No,2026-08-04,
-MO,2,Brandon Wilkinson,No,2026-08-04,
-MO,3,Bob Onder,Yes,2026-08-04,
-MO,3,John Fraser,No,2026-08-04,
-MO,4,Mark Alford,Yes,2026-08-04,
-MO,4,Heather Shelton,No,2026-08-04,
-MO,4,Scott Vera,No,2026-08-04,
-MO,5,Micah Beebe,No,2026-08-04,
-MO,5,Rick Brattin,No,2026-08-04,
-MO,5,Taylor Burks,No,2026-08-04,
-MO,5,Robert Foltz,No,2026-08-04,
-MO,5,Brett Hueffmeier,No,2026-08-04,
-MO,5,Berton A. Knox,No,2026-08-04,
-MO,5,Brad Patty,No,2026-08-04,
-MO,6,Jim Ingram,No,2026-08-04,
-MO,6,Cody Oshel,No,2026-08-04,
-MO,6,Gena Ross,No,2026-08-04,
-MO,6,Nathanael Schultz,No,2026-08-04,
-MO,6,Chris Stigall,No,2026-08-04,
-MO,6,Nathan Willett,No,2026-08-04,
-MO,7,Eric Burlison,Yes,2026-08-04,
-MO,7,John Casey,No,2026-08-04,
-MO,7,Grayson Hunt,No,2026-08-04,
-MO,8,Jason Smith,Yes,2026-08-04,
-MO,8,Gordon Heslop,No,2026-08-04,
-MO,8,Johnathon Tune,No,2026-08-04,
-MT,1,Ray Curtis,No,2026-06-02,
-MT,1,Aaron Flint,No,2026-06-02,
-MT,1,Christi Jacobsen,No,2026-06-02,
-MT,1,Albert Olszewski,No,2026-06-02,
-MT,2,Troy Downing,Yes,2026-06-02,
-NE,1,Mike Flood,Yes,2026-05-12,
-NE,2,Brinker Harding,No,2026-05-12,
-NE,3,Adrian Smith,Yes,2026-05-12,
-NE,3,David Huebner,No,2026-05-12,
-NV,1,Jim Blockey,No,2026-06-09,
-NV,1,Michael Boris,No,2026-06-09,
-NV,1,Carrie Buck,No,2026-06-09,
-NV,1,Marie Encar Arnold,No,2026-06-09,
-NV,1,Rick Saga,No,2026-06-09,
-NV,2,Jennifer Billat,No,2026-06-09,
-NV,2,Thomas Doyle,No,2026-06-09,
-NV,2,David Flippo,No,2026-06-09,
-NV,2,George Forbush,No,2026-06-09,
-NV,2,Bruce Grego,No,2026-06-09,
-NV,2,Andrea Lowe,No,2026-06-09,
-NV,2,Jerry Olsen,No,2026-06-09,
-NV,2,James A. Settelmeyer,No,2026-06-09,
-NV,2,Rick Shepherd,No,2026-06-09,
-NV,2,Fred Simon Jr.,No,2026-06-09,
-NV,2,Michael Smith,No,2026-06-09,
-NV,2,Sherman Tylawsky,No,2026-06-09,
-NV,2,Jesse Watts,No,2026-06-09,
-NV,3,Tera Anderson,No,2026-06-09,
-NV,3,Jeff Gunter,No,2026-06-09,
-NV,3,Aury Nagy,No,2026-06-09,
-NV,3,Marty O'Donnell,No,2026-06-09,
-NV,4,Ronda Kennedy,No,2026-06-09,
-NV,4,Anthony Snowden,No,2026-06-09,
-NV,4,Cody Whipple,No,2026-06-09,
-NH,1,Melissa Bailey,No,2026-09-08,
-NH,1,Brian Cole,No,2026-09-08,
-NH,1,Anthony DiLorenzo,No,2026-09-08,
-NH,1,Elizabeth Girard,No,2026-09-08,
-NH,1,Hollie Noveletsky,No,2026-09-08,
-NH,2,Victor Orlando,No,2026-09-08,
-NH,2,Lily Williams,No,2026-09-08,
-NJ,1,Damon Galdo,No,2026-06-02,
-NJ,2,Jeff Van Drew,Yes,2026-06-02,
-NJ,3,Justin Barbera,No,2026-06-02,
-NJ,3,Jason Cullen,No,2026-06-02,
-NJ,3,Michael McGuire,No,2026-06-02,
-NJ,4,Chris Smith,Yes,2026-06-02,
-NJ,5,Sean Kirrane,No,2026-06-02,
-NJ,6,Hillary Herzig,No,2026-06-02,
-NJ,7,Thomas Kean Jr.,Yes,2026-06-02,
-NJ,9,Tiffany Burress,No,2026-06-02,
-NJ,9,Rosemary Pino,No,2026-06-02,
-NJ,10,Carmen Bucco,No,2026-06-02,
-NJ,11,Joe Hathaway,No,2026-06-02,
-NJ,11,Joe Hathaway,No,2026-06-02,
-NJ,12,Gregg Mele,No,2026-06-02,
-NM,1,Ndidiamaka Okpareke,No,2026-06-02,
-NM,2,Greg Cunningham,No,2026-06-02,
-NM,2,Jose Orozco,No,2026-06-02,
-NM,3,Martin Ruben Zamora,No,2026-06-02,
-NY,1,Nicholas J. LaLota,Yes,2026-06-23,
-NY,2,Andrew Garbarino,Yes,2026-06-23,
-NY,3,Gregory Hach,No,2026-06-23,
-NY,3,Michael Lavery,No,2026-06-23,
-NY,3,Michael LiPetri Jr.,No,2026-06-23,
-NY,4,Dennis McGrath,No,2026-06-23,
-NY,4,Brian Miller,No,2026-06-23,
-NY,4,Martin Smithmyer,No,2026-06-23,
-NY,4,Marvin Suber Williams,No,2026-06-23,
-NY,5,Alexandria Foxworth,No,2026-06-23,
-NY,5,George Marsh,No,2026-06-23,
-NY,6,Joseph Chou,No,2026-06-23,
-NY,6,Juan Pagan,No,2026-06-23,
-NY,7,Melvin Rivera,No,2026-06-23,
-NY,8,Lewis Mizrahi,No,2026-06-23,
-NY,8,Richard Simmons,No,2026-06-23,
-NY,9,Joel Anabilah-Azumah,No,2026-06-23,
-NY,9,Jean Depalis,No,2026-06-23,
-NY,9,Lewis Mizrahi,No,2026-06-23,
-NY,10,Jennifer Moore,No,2026-06-23,
-NY,11,Nicole Malliotakis,Yes,2026-06-23,
-NY,12,Kaley Aldrich,No,2026-06-23,
-NY,12,Amy Jordan,No,2026-06-23,
-NY,12,Caroline Shinkle,No,2026-06-23,
-NY,12,Gavin Solomon,No,2026-06-23,
-NY,12,Massimiliano Zappone,No,2026-06-23,
-NY,13,Emmanuel Williams,No,2026-06-23,
-NY,13,Manual Williams,No,2026-06-23,
-NY,14,Aurelio Arcabascio,No,2026-06-23,
-NY,14,Tina Forte,No,2026-06-23,
-NY,14,Diamant Hysenaj,No,2026-06-23,
-NY,14,Ariel Rivera-Diaz,No,2026-06-23,
-NY,15,Stylo A. Sapaskis,No,2026-06-23,
-NY,16,Joseph Cinquemani,No,2026-06-23,
-NY,17,Michael Lawler,Yes,2026-06-23,
-NY,18,Sharanjit Thind,No,2026-06-23,
-NY,19,Peter Oberacker,No,2026-06-23,
-NY,19,Alexander Portelli,No,2026-06-23,
-NY,20,Ralph Ambrosio,No,2026-06-23,
-NY,21,Anthony Constantino,No,2026-06-23,
-NY,21,Robert Smullen,No,2026-06-23,
-NY,22,Kailee Buller,No,2026-06-23,
-NY,23,Nick Langworthy,Yes,2026-06-23,
-NY,24,Claudia Tenney,Yes,2026-06-23,
-NY,24,John McDairmant,No,2026-06-23,
-NY,25,Virginia McIntyre,No,2026-06-23,
-NY,26,Dennis Hannon,No,2026-06-23,
-NC,1,Laurie Buckhout,No,2026-03-03,
-NC,1,Asa Buck,No,2026-03-03,
-NC,1,Robert Hanig,No,2026-03-03,
-NC,1,Eric Rouse,No,2026-03-03,
-NC,1,Ashley-Nicole Russell,No,2026-03-03,
-NC,5,Virginia Foxx,Yes,2026-03-03,
-NC,5,Steve Girard,No,2026-03-03,
-NC,5,Joseph Osborne,No,2026-03-03,
-NC,5,Roman Williams II,No,2026-03-03,
-NC,7,David Rouzer,Yes,2026-03-03,
-NC,7,David Buzzard,No,2026-03-03,
-NC,10,Pat Harrigan,Yes,2026-03-03,
-NC,10,Matthew Sin,No,2026-03-03,
-NC,11,Chuck Edwards,Yes,2026-03-03,
-NC,11,Adam Smith,No,2026-03-03,
-NC,12,Jack Codiga,No,2026-03-03,
-NC,12,Addul Ali,No,2026-03-03,
-NC,13,Brad Knott,Yes,2026-03-03,
-NC,13,Sid Sharma,No,2026-03-03,
-NC,14,Timothy K. Moore,Yes,2026-03-03,
-NC,14,Kate Barr,No,2026-03-03,
-ND,1,Julie Fedorchak,Yes,2026-06-09,
-ND,1,Alex Balazs,No,2026-06-09,
-OH,1,Holly Adams,No,2026-05-05,
-OH,1,Eric Conroy,No,2026-05-05,
-OH,1,Steven Erbeck,No,2026-05-05,
-OH,1,Rosemary Oglesby-Henry,No,2026-05-05,
-OH,2,David Taylor,Yes,2026-05-05,
-OH,2,Bob Carr,No,2026-05-05,
-OH,3,Cleophus Dulaney,No,2026-05-05,
-OH,4,Jim Jordan,Yes,2026-05-05,
-OH,5,Bob Latta,Yes,2026-05-05,
-OH,6,Michael Rulli,Yes,2026-05-05,
-OH,6,Jullie Kelley,No,2026-05-05,
-OH,7,Max Miller,Yes,2026-05-05,
-OH,8,Warren Davidson,Yes,2026-05-05,
-OH,9,Anthony Campbell,No,2026-05-05,
-OH,9,Derek Merrin,No,2026-05-05,
-OH,9,Alea Nadeem,No,2026-05-05,
-OH,9,Madison Sheahan,No,2026-05-05,
-OH,9,Josh Williams,No,2026-05-05,
-OH,10,Michael Turner,Yes,2026-05-05,
-OH,11,James Hemphill,No,2026-05-05,
-OH,11,Mike Kirchner,No,2026-05-05,
-OH,12,Troy Balderson,Yes,2026-05-05,
-OH,13,Margaret Briem,No,2026-05-05,
-OH,13,Carey Coleman,No,2026-05-05,
-OH,13,Sanjin Drakovac,No,2026-05-05,
-OH,13,Neil Patel,No,2026-05-05,
-OH,13,Kevin Siembida,No,2026-05-05,
-OH,14,David Joyce,Yes,2026-05-05,
-OH,14,Nicole Frenchko,No,2026-05-05,
-OH,15,Mike Carey,Yes,2026-05-05,
-OK,1,Nathan Butterfield,No,2026-06-16,
-OK,1,Jed Cochran,No,2026-06-16,
-OK,1,Kim David,No,2026-06-16,
-OK,1,Nancy Dyson,No,2026-06-16,
-OK,1,Courtney Gill,No,2026-06-16,
-OK,1,Jackson Lahmeyer,No,2026-06-16,
-OK,1,Dan Rooney,No,2026-06-16,
-OK,1,Paul Royse,No,2026-06-16,
-OK,1,Mark Tedford,No,2026-06-16,
-OK,1,Kelly Walsh,No,2026-06-16,
-OK,1,Todd Woods,No,2026-06-16,
-OK,2,Josh Brecheen,Yes,2026-06-16,
-OK,2,William Webb,No,2026-06-16,
-OK,3,Frank Lucas,Yes,2026-06-16,
-OK,3,Wade Burleson,No,2026-06-16,
-OK,4,Tom Cole,Yes,2026-06-16,
-OK,4,Marcie Everhart,No,2026-06-16,
-OR,1,Barbara Kahl,No,2026-05-19,
-OR,1,John Verbeek,No,2026-05-19,
-OR,2,Cliff Bentz,Yes,2026-05-19,
-OR,2,Andrea Carr,No,2026-05-19,
-OR,2,Peter Larson,No,2026-05-19,
-OR,3,Loran Ayles,No,2026-05-19,
-OR,4,Monique DeSpain,No,2026-05-19,
-OR,4,Stefan Strek,No,2026-05-19,
-OR,5,Patti Adair,No,2026-05-19,
-OR,5,Jonathan Lockwood,No,2026-05-19,
-OR,6,David Russ,No,2026-05-19,
-PA,1,Brian Fitzpatrick,Yes,2026-05-19,
-PA,2,Jessica Arriaga,No,2026-05-19,
-PA,4,Aurora Stuski,No,2026-05-19,
-PA,5,Nick Manganaro,No,2026-05-19,
-PA,6,Marty Young,No,2026-05-19,
-PA,7,Ryan Mackenzie,Yes,2026-05-19,
-PA,8,Rob Bresnahan Jr.,Yes,2026-05-19,
-PA,9,Dan Meuser,Yes,2026-05-19,
-PA,10,Scott Perry,Yes,2026-05-19,
-PA,11,Lloyd Smucker,Yes,2026-05-19,
-PA,12,James Hayes,No,2026-05-19,
-PA,13,John Joyce,Yes,2026-05-19,
-PA,14,Guy Reschenthaler,Yes,2026-05-19,
-PA,15,Glenn Thompson,Yes,2026-05-19,
-PA,16,Mike Kelly,Yes,2026-05-19,
-PA,17,Tony Guy,No,2026-05-19,
-PA,17,Jesse Vodvarka,No,2026-05-19,
-RI,2,Victor Mellor,No,2026-09-08,
-RI,2,Stephen Skoly,No,2026-09-08,
-SC,1,Dan Brown,No,2026-06-09,
-SC,1,Jay Byars,No,2026-06-09,
-SC,1,Logan Cunningham,No,2026-06-09,
-SC,1,Tyler Dykes,No,2026-06-09,
-SC,1,Jack Ellison,No,2026-06-09,
-SC,1,Jenny Honeycutt,No,2026-06-09,
-SC,1,Kendal Ludden,No,2026-06-09,
-SC,1,Sam McCown,No,2026-06-09,
-SC,1,Alex Pelbath,No,2026-06-09,
-SC,1,Cindy Riley,No,2026-06-09,
-SC,1,Mark Sanford,No,2026-06-09,
-SC,1,Mark Smith,No,2026-06-09,
-SC,2,Joe Wilson,Yes,2026-06-09,
-SC,2,Sam Gibbons,No,2026-06-09,
-SC,2,Hamp Redmond,No,2026-06-09,
-SC,3,Sheri Biggs,Yes,2026-06-09,
-SC,4,William Timmons,Yes,2026-06-09,
-SC,4,David Atchley,No,2026-06-09,
-SC,4,Robert Lee,No,2026-06-09,
-SC,5,Bill Bledsoe,No,2026-06-09,
-SC,5,Wes Climer,No,2026-06-09,
-SC,6,John Peterson,No,2026-06-09,
-SC,6,Maurice Washington,No,2026-06-09,
-SC,7,Russell Fry,Yes,2026-06-09,
-SC,7,Branden Brown,No,2026-06-09,
-SC,7,Adam Moye,No,2026-06-09,
-SD,1,James Bialota,No,2026-06-02,
-SD,1,Marty J. Jackley,No,2026-06-02,
-TN,1,Diana Harshbarger,Yes,2026-08-06,
-TN,2,Tim Burchett,Yes,2026-08-06,
-TN,3,Charles J. Fleischmann,Yes,2026-08-06,
-TN,4,Scott DesJarlais,Yes,2026-08-06,
-TN,4,Thomas Davis,No,2026-08-06,
-TN,4,Harold Jones,No,2026-08-06,
-TN,5,Andy Ogles,Yes,2026-08-06,
-TN,5,Charlie Hatcher,No,2026-08-06,
-TN,6,Natisha Brooks,No,2026-08-06,
-TN,6,Johnny Garrett,No,2026-08-06,
-TN,6,Jon Henry,No,2026-08-06,
-TN,6,Van Hilleary,No,2026-08-06,
-TN,7,Matt Van Epps,Yes,2026-08-06,
-TN,8,David Kustoff,Yes,2026-08-06,
-TN,9,Charlotte Bergmann,No,2026-08-06,
-TN,9,Kevin Young,No,2026-08-06,
-TX,1,Nathaniel Moran,Yes,2026-03-03,
-TX,2,Steve Toth,No,2026-03-03,
-TX,2,Daniel Crenshaw,Yes,2026-03-03,
-TX,2,Martin Etwop,No,2026-03-03,
-TX,2,Nicholas Plumb,No,2026-03-03,
-TX,3,Keith Self,Yes,2026-03-03,
-TX,3,Mark Newgent,No,2026-03-03,
-TX,4,Pat Fallon,Yes,2026-03-03,
-TX,4,Don Horn,No,2026-03-03,
-TX,5,Lance Gooden,Yes,2026-03-03,
-TX,6,Jake Ellzey,Yes,2026-03-03,
-TX,6,James Buford,No,2026-03-03,
-TX,6,Brian Stahl,No,2026-03-03,
-TX,7,Tina Blum Cohen,No,2026-03-03,
-TX,7,Alexander Hale,No,2026-03-03,
-TX,7,Alexander Kalai,No,2026-03-03,
-TX,7,Erin Montgomery,No,2026-03-03,
-TX,8,Jessica Steinmann,No,2026-03-03,
-TX,8,Jay Fondren,No,2026-03-03,
-TX,8,Brett Jensen,No,2026-03-03,
-TX,8,Stephen Long,No,2026-03-03,
-TX,8,Nick Tran,No,2026-03-03,
-TX,8,Deddrick Wilmer,No,2026-03-03,
-TX,9,Briscoe Cain,No,2026-03-03,
-TX,9,Alex Mealer,No,2026-03-03,
-TX,9,Jaimy Annette Zoboulikos-Blanco,No,2026-03-03,
-TX,9,Michael Curran,No,2026-03-03,
-TX,9,Dan Mims,No,2026-03-03,
-TX,9,Crystal Sarmiento,No,2026-03-03,
-TX,9,Steve Stockman,No,2026-03-03,
-TX,9,Dwayne Stovall,No,2026-03-03,
-TX,9,Terry Lee Thain,No,2026-03-03,
-TX,10,Chris Gober,No,2026-03-03,
-TX,10,Rob Altman,No,2026-03-03,
-TX,10,Ben Bius,No,2026-03-03,
-TX,10,Robert Brown,No,2026-03-03,
-TX,10,Jenny Garcia Sharon,No,2026-03-03,
-TX,10,Brandon Hawbaker,No,2026-03-03,
-TX,10,Jessica Karlsruher,No,2026-03-03,
-TX,10,Kara King,No,2026-03-03,
-TX,10,Scott MacLeod,No,2026-03-03,
-TX,10,Jeremy Story,No,2026-03-03,
-TX,11,August Pfluger,Yes,2026-03-03,
-TX,12,Craig Goldman,Yes,2026-03-03,
-TX,13,Ronny L. Jackson,Yes,2026-03-03,
-TX,13,Chasity Wedgeworth,No,2026-03-03,
-TX,14,Randy Weber,Yes,2026-03-03,
-TX,14,Jessica Forgy,No,2026-03-03,
-TX,15,Monica De La Cruz,Yes,2026-03-03,
-TX,16,Manuel Barraza,No,2026-03-03,
-TX,16,Adam Bauman,No,2026-03-03,
-TX,16,Hector Cabildo,No,2026-03-03,
-TX,16,Raul Castaneda,No,2026-03-03,
-TX,16,Marisela Chavez,No,2026-03-03,
-TX,16,Deliris Montanez,No,2026-03-03,
-TX,16,Ruben Rios,No,2026-03-03,
-TX,17,Pete Sessions,Yes,2026-03-03,
-TX,18,Ronald Whitfield,No,2026-03-03,
-TX,18,Elizabeth Vences,No,2026-03-03,
-TX,19,Abraham Enriquez,No,2026-03-03,
-TX,19,Tom Sell,No,2026-03-03,
-TX,19,James Barbee,No,2026-03-03,
-TX,19,Jason Corley,No,2026-03-03,
-TX,19,Donald May,No,2026-03-03,
-TX,19,Matthew Smith,No,2026-03-03,
-TX,19,Ryan Zink,No,2026-03-03,
-TX,20,Edgardo Baez,No,2026-03-03,
-TX,21,Mark Teixeira,No,2026-03-03,
-TX,21,Daniel Betts,No,2026-03-03,
-TX,21,Jason Cahill,No,2026-03-03,
-TX,21,Jacques DuBose,No,2026-03-03,
-TX,21,Ezekiel Enriquez,No,2026-03-03,
-TX,21,Weston Martinez,No,2026-03-03,
-TX,21,Paul Rojas,No,2026-03-03,
-TX,21,Kyle Sinclair,No,2026-03-03,
-TX,21,Heather Tessmer,No,2026-03-03,
-TX,21,Trey Trainor,No,2026-03-03,
-TX,21,Peggy Wardlaw,No,2026-03-03,
-TX,21,Mike Wheeler,No,2026-03-03,
-TX,22,Trever Nehls,No,2026-03-03,
-TX,22,Rebecca Clark,No,2026-03-03,
-TX,23,Brandon Herrera,No,2026-03-03,
-TX,23,Keith Barton,No,2026-03-03,
-TX,23,Francisco Canseco,No,2026-03-03,
-TX,23,Tony Gonzales,No,2026-03-03,
-TX,24,Beth Van Duyne,Yes,2026-03-03,
-TX,25,Roger Williams,Yes,2026-03-03,
-TX,26,Brandon Gill,Yes,2026-03-03,
-TX,26,Robert Chick,No,2026-03-03,
-TX,27,Michael Cloud,Yes,2026-03-03,
-TX,27,Chris Hatley,No,2026-03-03,
-TX,28,Tano Tijerina,No,2026-03-03,
-TX,28,Eileen Day,No,2026-03-03,
-TX,29,Martha Fierro,No,2026-03-03,
-TX,30,Sholdon Daniels,No,2026-03-03,
-TX,30,Everett Jackson,No,2026-03-03,
-TX,30,Gregor Heise,No,2026-03-03,
-TX,30,Nils Walker,No,2026-03-03,
-TX,31,John Carter,Yes,2026-03-03,
-TX,31,William Abel,No,2026-03-03,
-TX,31,David Berry,No,2026-03-03,
-TX,31,Steven Dowell,No,2026-03-03,
-TX,31,Ed Ewald,No,2026-03-03,
-TX,31,Abhiram Garapati,No,2026-03-03,
-TX,31,Valentina Gomez Noriega,No,2026-03-03,
-TX,31,Raymond Hamden,No,2026-03-03,
-TX,31,Elvis Lossa,No,2026-03-03,
-TX,31,Offer Vince Shlomi,No,2026-03-03,
-TX,32,Jace Yarbrough,No,2026-03-03,
-TX,32,Paul Bondar,No,2026-03-03,
-TX,32,Aimee Carrasco,No,2026-03-03,
-TX,32,Darrell Day,No,2026-03-03,
-TX,32,Gordon Heslop,No,2026-03-03,
-TX,32,Monty Montanez,No,2026-03-03,
-TX,32,James Ussery,No,2026-03-03,
-TX,32,Abteen Vaziri,No,2026-03-03,
-TX,32,Ryan Binkley,No,2026-03-03,
-TX,33,Patrick Gillespie,No,2026-03-03,
-TX,33,John Sims,No,2026-03-03,
-TX,33,Monte Mitchell,No,2026-03-03,
-TX,33,Kurt L. Schwab,No,2026-03-03,
-TX,34,Eric Flores,No,2026-03-03,
-TX,34,Keith Allen,No,2026-03-03,
-TX,34,Luis Buentello,No,2026-03-03,
-TX,34,Mayra Flores,No,2026-03-03,
-TX,34,Fred Hinojosa,No,2026-03-03,
-TX,34,Gregory Kunkle Jr.,No,2026-03-03,
-TX,34,Scott Mandel,No,2026-03-03,
-TX,34,Jay Nagy,No,2026-03-03,
-TX,35,Carlos De La Cruz,No,2026-03-03,
-TX,35,John Lujan,No,2026-03-03,
-TX,35,Randy Adams,No,2026-03-03,
-TX,35,Joshua Cortez,No,2026-03-03,
-TX,35,Mark Eberwine,No,2026-03-03,
-TX,35,Jay Furman,No,2026-03-03,
-TX,35,Vanessa Hicks-Callaway,No,2026-03-03,
-TX,35,Ryan Krause,No,2026-03-03,
-TX,35,Larry La Rose,No,2026-03-03,
-TX,35,Rod Lingsch,No,2026-03-03,
-TX,35,Steven Wright,No,2026-03-03,
-TX,36,Brian Babin,Yes,2026-03-03,
-TX,36,Jonathan Mitchell,No,2026-03-03,
-TX,37,Ge'Nell Gary,No,2026-03-03,
-TX,37,Lauren Peña,No,2026-03-03,
-TX,37,Janet Malzahn,No,2026-03-03,
-TX,38,Jon Bonck,No,2026-03-03,
-TX,38,Shelly deZevallos,No,2026-03-03,
-TX,38,Avery Ayers,No,2026-03-03,
-TX,38,Craig Goralski,No,2026-03-03,
-TX,38,Barrett McNabb,No,2026-03-03,
-TX,38,Carmen Montiel,No,2026-03-03,
-TX,38,Michael Pratt,No,2026-03-03,
-TX,38,Larry Rubin,No,2026-03-03,
-TX,38,Jennifer Sundt,No,2026-03-03,
-TX,38,Jeff Yuna,No,2026-03-03,
-UT,1,Stoney Fonua,No,2026-06-23,
-UT,1,Riley Owen,No,2026-06-23,
-UT,1,David Robinson,No,2026-06-23,
-UT,2,Blake Moore,Yes,2026-06-23,
-UT,3,Celeste Maloy,Yes,2026-06-23,
-UT,3,Phil Lyman,No,2026-06-23,
-UT,3,Tyler Murset,No,2026-06-23,
-UT,4,Mike Kennedy,Yes,2026-06-23,
-UT,4,Pasitale Lupeamanu,No,2026-06-23,
-UT,4,Seth Stewart,No,2026-06-23,
-VT,1,Mark Coester,No,2026-08-11,
-VA,1,Robert J. Wittman,Yes,2026-08-04,
-VA,2,Jennifer Kiggans,Yes,2026-08-04,
-VA,2,William Matthews,No,2026-08-04,
-VA,5,John McGuire,Yes,2026-08-04,
-VA,5,Bob Good,No,2026-08-04,
-VA,5,Melanie Lucero,No,2026-08-04,
-VA,6,Benjamin Lee Cline,Yes,2026-08-04,
-VA,7,Tara Durant,No,2026-08-04,
-VA,7,John Gray,No,2026-08-04,
-VA,7,Darius Mayfield,No,2026-08-04,
-VA,7,Douglas Ollivant,No,2026-08-04,
-VA,7,Waverly Washington,No,2026-08-04,
-VA,8,Heerak Christian Kim,No,2026-08-04,
-VA,8,Luke Nathan Phillips,No,2026-08-04,
-VA,8,Tony Sabio,No,2026-08-04,
-VA,9,H. Morgan Griffith,Yes,2026-08-04,
-VA,9,Brandon Cook,No,2026-08-04,
-VA,10,Julie Perry,No,2026-08-04,
-VA,10,Sam Wong,No,2026-08-04,
-VA,11,Nathan Headrick,No,2026-08-04,
-WA,3,John Braun,No,2026-08-04,
-WA,3,Lawrence Kellogg,No,2026-08-04,
-WA,3,Wadi Yakhour,No,2026-08-04,
-WA,4,Matt Boehnke,No,2026-08-04,
-WA,4,John Hughs,No,2026-08-04,
-WA,4,Amanda McKinney,No,2026-08-04,
-WA,4,Wesley Meier,No,2026-08-04,
-WA,4,Jerrod Sessler,No,2026-08-04,
-WA,5,Michael Baumgartner,Yes,2026-08-04,
-WA,5,Anthony Jensen,No,2026-08-04,
-WA,6,Teresa Fox,No,2026-08-04,
-WA,6,Leon Lawson,No,2026-08-04,
-WA,7,Nirav Sheth,No,2026-08-04,
-WA,8,Trinh Ha,No,2026-08-04,
-WA,8,Bob Hagglund,No,2026-08-04,
-WA,8,Spencer Meline,No,2026-08-04,
-WA,8,Andres Valleza,No,2026-08-04,
-WA,9,Janis Clark,No,2026-08-04,
-WA,9,C. Mark Greene,No,2026-08-04,
-VA,1,Carol Miller,Yes,2026-08-04,
-VA,1,Larry Jackson,No,2026-08-04,
-VA,2,Riley Moore,Yes,2026-08-04,
-WI,1,Bryan Steil,Yes,2026-08-11,
-WI,1,Connor Walleck,No,2026-08-11,
-WI,2,Erik Olsen,No,2026-08-11,
-WI,3,Derrick Van Orden,Yes,2026-08-11,
-WI,4,Purnima Nath,No,2026-08-11,
-WI,5,Scott Fitzgerald,Yes,2026-08-11,
-WI,6,Glenn Grothman,Yes,2026-08-11,
-WI,6,Jonathan Peetz,No,2026-08-11,
-WI,7,Michael Alfonso,No,2026-08-11,
-WI,7,Jessi Ebben,No,2026-08-11,
-WI,7,Kevin Hermening,No,2026-08-11,
-WI,7,Niina Threlfall-Baum,No,2026-08-11,
-WI,8,Tony Wied,Yes,2026-08-11,
-WY,1,Jillian Balow,No,2026-08-18,
-WY,1,Bo Biteman,No,2026-08-18,
-WY,1,Frank Chapman,No,2026-08-18,
-WY,1,Kevin Christensen,No,2026-08-18,
-WY,1,Stephen Friess,No,2026-08-18,
-WY,1,David Giralt,No,2026-08-18,
-WY,1,Chuck Gray,No,2026-08-18,
-WY,1,Matt McGinnis,No,2026-08-18,
-WY,1,Reid Rasner,No,2026-08-18,
-WY,1,John Romero-Martinez,No,2026-08-18,
+state,district,office,special_election,primary_date,runoff_date,name,incumbent,status
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,Jerry Carl,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,James Dees,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,Rhett Marques,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,Joshua McKee,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,John Mills,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,James Richardson,FALSE,On the ballot
+AL,1,U.S. House Alabama District 1,FALSE,2026-05-19,2026-06-16,Austin Sidwell,FALSE,On the ballot
+AL,3,U.S. House Alabama District 3,FALSE,2026-05-19,2026-06-16,Mike Rogers,TRUE,On the ballot
+AL,3,U.S. House Alabama District 3,FALSE,2026-05-19,2026-06-16,Terri LaPoint,FALSE,On the ballot
+AL,4,U.S. House Alabama District 4,FALSE,2026-05-19,2026-06-16,Robert Aderholt,TRUE,On the ballot
+AL,4,U.S. House Alabama District 4,FALSE,2026-05-19,2026-06-16,Tommy Barnes,FALSE,On the ballot
+AL,6,U.S. House Alabama District 6,FALSE,2026-05-19,2026-06-16,Gary Palmer,TRUE,On the ballot
+AL,6,U.S. House Alabama District 6,FALSE,2026-05-19,2026-06-16,Case Dixon,FALSE,On the ballot
+AK,1,U.S. House Alaska At-large District,FALSE,2026-08-18,,Nicholas Begich,TRUE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Joseph Chaplik,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Jason Duey,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Jay Feely,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Derrick Gallego,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Kaitlin Purrington,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Paul Reevs,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,Brandon Sowers,FALSE,Candidacy declared
+AZ,1,U.S. House Arizona District 1,FALSE,2026-07-21,,John Trobough,FALSE,Candidacy declared
+AZ,2,U.S. House Arizona District 2,FALSE,2026-07-21,,Eli Crane,TRUE,Candidacy declared
+AZ,3,U.S. House Arizona District 3,FALSE,2026-07-21,,Kirt Burgess,FALSE,Candidacy declared
+AZ,3,U.S. House Arizona District 3,FALSE,2026-07-21,,Nicholas Glenn,FALSE,Candidacy declared (write-in)
+AZ,4,U.S. House Arizona District 4,FALSE,2026-07-21,,Zuhdi Jasser,FALSE,Candidacy declared
+AZ,4,U.S. House Arizona District 4,FALSE,2026-07-21,,Elizabeth Reye,FALSE,Candidacy declared
+AZ,4,U.S. House Arizona District 4,FALSE,2026-07-21,,Alex Stovall,FALSE,Candidacy declared
+AZ,5,U.S. House Arizona District 5,FALSE,2026-07-21,,Travis Grantham,FALSE,Candidacy declared
+AZ,5,U.S. House Arizona District 5,FALSE,2026-07-21,,Mike Gross,FALSE,Candidacy declared
+AZ,5,U.S. House Arizona District 5,FALSE,2026-07-21,,Daniel Keenan,FALSE,Candidacy declared
+AZ,5,U.S. House Arizona District 5,FALSE,2026-07-21,,Mark Lamb,FALSE,Candidacy declared
+AZ,6,U.S. House Arizona District 6,FALSE,2026-07-21,,Juan Ciscomani,TRUE,Candidacy declared
+AZ,7,U.S. House Arizona District 7,FALSE,2026-07-21,,Daniel Butierez Sr.,FALSE,Candidacy declared
+AZ,8,U.S. House Arizona District 8,FALSE,2026-07-21,,Abraham Hamadeh,TRUE,Candidacy declared
+AZ,8,U.S. House Arizona District 8,FALSE,2026-07-21,,Amanda Rose,FALSE,Candidacy declared
+AZ,9,U.S. House Arizona District 9,FALSE,2026-07-21,,Paul Gosar,TRUE,Candidacy declared
+AZ,9,U.S. House Arizona District 9,FALSE,2026-07-21,,Teresa Volesky,FALSE,Candidacy declared
+AR,2,U.S. House Arkansas District 2,FALSE,2026-03-03,2026-03-31,French Hill,TRUE,Advanced
+AR,2,U.S. House Arkansas District 2,FALSE,2026-03-03,2026-03-31,Chase McDowell,FALSE,Lost
+CA,1,U.S. House California District 1 (Special election),TRUE,2026-06-02,,James Gallagher,FALSE,On the ballot
+CA,1,U.S. House California District 1 (Special election),TRUE,2026-06-02,,Jot Thiara,FALSE,On the ballot
+CA,1,U.S. House California District 1,FALSE,2026-06-02,,James Gallagher,FALSE,On the ballot
+CA,2,U.S. House California District 2,FALSE,2026-06-02,,Tim Geist,FALSE,On the ballot
+CA,2,U.S. House California District 2,FALSE,2026-06-02,,Robin Littau,FALSE,On the ballot
+CA,2,U.S. House California District 2,FALSE,2026-06-02,,Paul Saulsbury,FALSE,On the ballot
+CA,2,U.S. House California District 2,FALSE,2026-06-02,,Angelita Valles,FALSE,On the ballot
+CA,3,U.S. House California District 3,FALSE,2026-06-02,,Christine Bish,FALSE,On the ballot
+CA,3,U.S. House California District 3,FALSE,2026-06-02,,Laura Koscki,FALSE,On the ballot
+CA,3,U.S. House California District 3,FALSE,2026-06-02,,Robb Tucker,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,Sharon Brown,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,Mandy Ghusar,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,Jimih Jones,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,L. John MacKenzie,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,Raymond Riehle,FALSE,On the ballot
+CA,4,U.S. House California District 4,FALSE,2026-06-02,,Chuck Uribe,FALSE,On the ballot
+CA,5,U.S. House California District 5,FALSE,2026-06-02,,Tom McClintock,TRUE,On the ballot
+CA,6,U.S. House California District 6,FALSE,2026-06-02,,Michael Stansfield,FALSE,On the ballot
+CA,7,U.S. House California District 7,FALSE,2026-06-02,,Ralph Nwobi,FALSE,On the ballot
+CA,7,U.S. House California District 7,FALSE,2026-06-02,,Zachariah Wooden,FALSE,On the ballot
+CA,8,U.S. House California District 8,FALSE,2026-06-02,,Rudy Recile,FALSE,On the ballot
+CA,9,U.S. House California District 9,FALSE,2026-06-02,,Khalid Jeffrey Jafri,FALSE,On the ballot
+CA,9,U.S. House California District 9,FALSE,2026-06-02,,John McBride,FALSE,On the ballot
+CA,9,U.S. House California District 9,FALSE,2026-06-02,,Parminder Singh,FALSE,On the ballot
+CA,9,U.S. House California District 9,FALSE,2026-06-02,,Martin Veprauskas,FALSE,On the ballot
+CA,10,U.S. House California District 10,FALSE,2026-06-02,,Jeffrey Frese,FALSE,On the ballot
+CA,10,U.S. House California District 10,FALSE,2026-06-02,,Angela Griffiths,FALSE,On the ballot
+CA,10,U.S. House California District 10,FALSE,2026-06-02,,Katherine Piccinini,FALSE,On the ballot
+CA,11,U.S. House California District 11,FALSE,2026-06-02,,David Ganezer,FALSE,On the ballot
+CA,11,U.S. House California District 11,FALSE,2026-06-02,,Jingchao Xiong,FALSE,On the ballot
+CA,13,U.S. House California District 13,FALSE,2026-06-02,,Vin Kruttiventi,FALSE,On the ballot
+CA,13,U.S. House California District 13,FALSE,2026-06-02,,Kevin Lincoln II,FALSE,On the ballot
+CA,14,U.S. House California District 14 (Special election),TRUE,2026-06-02,,Wendy Huang,FALSE,On the ballot
+CA,14,U.S. House California District 14 (Special election),TRUE,2026-06-02,,Dena Maldonado,FALSE,On the ballot
+CA,14,U.S. House California District 14 (Special election),TRUE,2026-06-02,,Tom Wong,FALSE,On the ballot
+CA,14,U.S. House California District 14 (Special election),TRUE,2026-06-02,,Jack Wu,FALSE,On the ballot
+CA,14,U.S. House California District 14,FALSE,2026-06-02,,Wendy Huang,FALSE,On the ballot
+CA,14,U.S. House California District 14,FALSE,2026-06-02,,Dena Maldonado,FALSE,On the ballot
+CA,15,U.S. House California District 15,FALSE,2026-06-02,,Charles Hoelter,FALSE,On the ballot
+CA,16,U.S. House California District 16,FALSE,2026-06-02,,Kevin Johnson,FALSE,On the ballot
+CA,16,U.S. House California District 16,FALSE,2026-06-02,,Peter Soule,FALSE,On the ballot
+CA,17,U.S. House California District 17,FALSE,2026-06-02,,Jennie Ha Phan,FALSE,On the ballot
+CA,17,U.S. House California District 17,FALSE,2026-06-02,,Ritesh Tandon,FALSE,On the ballot
+CA,18,U.S. House California District 18,FALSE,2026-06-02,,Shane Lewis,FALSE,On the ballot
+CA,19,U.S. House California District 19,FALSE,2026-06-02,,Tuka Gafari,FALSE,On the ballot
+CA,19,U.S. House California District 19,FALSE,2026-06-02,,Peter Verbica,FALSE,On the ballot
+CA,20,U.S. House California District 20,FALSE,2026-06-02,,Vince Fong,TRUE,On the ballot
+CA,21,U.S. House California District 21,FALSE,2026-06-02,,Kyle Kirkland,FALSE,On the ballot
+CA,21,U.S. House California District 21,FALSE,2026-06-02,,Lorenzo Rios,FALSE,On the ballot
+CA,22,U.S. House California District 22,FALSE,2026-06-02,,David G. Valadao,TRUE,On the ballot
+CA,23,U.S. House California District 23,FALSE,2026-06-02,,Jay Obernolte,TRUE,On the ballot
+CA,24,U.S. House California District 24,FALSE,2026-06-02,,Bob Smith,FALSE,On the ballot
+CA,25,U.S. House California District 25,FALSE,2026-06-02,,Ronald Huffman,FALSE,On the ballot
+CA,25,U.S. House California District 25,FALSE,2026-06-02,,Joe Males,FALSE,On the ballot
+CA,25,U.S. House California District 25,FALSE,2026-06-02,,Ceci Andrade Truman,FALSE,On the ballot
+CA,26,U.S. House California District 26,FALSE,2026-06-02,,Samuel Gallucci,FALSE,On the ballot
+CA,26,U.S. House California District 26,FALSE,2026-06-02,,Michael Koslow,FALSE,On the ballot
+CA,26,U.S. House California District 26,FALSE,2026-06-02,,Daniel Miller,FALSE,On the ballot
+CA,26,U.S. House California District 26,FALSE,2026-06-02,,William Scott,FALSE,On the ballot
+CA,27,U.S. House California District 27,FALSE,2026-06-02,,Jason Gibbs,FALSE,On the ballot
+CA,28,U.S. House California District 28,FALSE,2026-06-02,,April Verlato,FALSE,On the ballot
+CA,29,U.S. House California District 29,FALSE,2026-06-02,,Rudy Melendez,FALSE,On the ballot
+CA,30,U.S. House California District 30,FALSE,2026-06-02,,Dennis Feitosa,FALSE,On the ballot
+CA,30,U.S. House California District 30,FALSE,2026-06-02,,Scott Meyers,FALSE,On the ballot
+CA,31,U.S. House California District 31,FALSE,2026-06-02,,Eric Ching,FALSE,On the ballot
+CA,31,U.S. House California District 31,FALSE,2026-06-02,,Erskine Levi,FALSE,On the ballot
+CA,32,U.S. House California District 32,FALSE,2026-06-02,,Larry Thompson,FALSE,On the ballot
+CA,33,U.S. House California District 33,FALSE,2026-06-02,,Tom Herman,FALSE,On the ballot
+CA,33,U.S. House California District 33,FALSE,2026-06-02,,Ernest Richter,FALSE,On the ballot
+CA,33,U.S. House California District 33,FALSE,2026-06-02,,Stephanie Vargas,FALSE,On the ballot
+CA,33,U.S. House California District 33,FALSE,2026-06-02,,Eugene Weems,FALSE,On the ballot
+CA,34,U.S. House California District 34,FALSE,2026-06-02,,Calvin Lee,FALSE,On the ballot
+CA,35,U.S. House California District 35,FALSE,2026-06-02,,Mike Cargile,FALSE,On the ballot
+CA,36,U.S. House California District 36,FALSE,2026-06-02,,Houston Brignano,FALSE,On the ballot
+CA,36,U.S. House California District 36,FALSE,2026-06-02,,Melissa Toomim,FALSE,On the ballot
+CA,37,U.S. House California District 37,FALSE,2026-06-02,,Baltazar Fedalizo,FALSE,On the ballot
+CA,38,U.S. House California District 38,FALSE,2026-06-02,,Pedro Casas,FALSE,On the ballot
+CA,39,U.S. House California District 39,FALSE,2026-06-02,,Steve Manos,FALSE,On the ballot
+CA,40,U.S. House California District 40,FALSE,2026-06-02,,Ken Calvert,TRUE,On the ballot
+CA,40,U.S. House California District 40,FALSE,2026-06-02,,Young Kim,TRUE,On the ballot
+CA,41,U.S. House California District 41,FALSE,2026-06-02,,Mitch Clemmons,FALSE,On the ballot
+CA,42,U.S. House California District 42,FALSE,2026-06-02,,Noah Blom,FALSE,On the ballot
+CA,42,U.S. House California District 42,FALSE,2026-06-02,,Brian Burley,FALSE,On the ballot
+CA,42,U.S. House California District 42,FALSE,2026-06-02,,Long Pham,FALSE,On the ballot
+CA,43,U.S. House California District 43,FALSE,2026-06-02,,Cristian Morales,FALSE,On the ballot
+CA,44,U.S. House California District 44,FALSE,2026-06-02,,Genevieve Angel,FALSE,On the ballot
+CA,45,U.S. House California District 45,FALSE,2026-06-02,,Mark Leonard,FALSE,On the ballot
+CA,45,U.S. House California District 45,FALSE,2026-06-02,,Chi Charlie Nguyen,FALSE,On the ballot
+CA,45,U.S. House California District 45,FALSE,2026-06-02,,Amy Phan West,FALSE,On the ballot
+CA,45,U.S. House California District 45,FALSE,2026-06-02,,Chuong Vo,FALSE,On the ballot
+CA,45,U.S. House California District 45,FALSE,2026-06-02,,Tom Vo,FALSE,On the ballot
+CA,46,U.S. House California District 46,FALSE,2026-06-02,,David Pan,FALSE,On the ballot
+CA,47,U.S. House California District 47,FALSE,2026-06-02,,William Brough,FALSE,On the ballot
+CA,47,U.S. House California District 47,FALSE,2026-06-02,,Christopher Gonzales,FALSE,On the ballot
+CA,47,U.S. House California District 47,FALSE,2026-06-02,,Jenny Rae Le Roux,FALSE,On the ballot
+CA,47,U.S. House California District 47,FALSE,2026-06-02,,Michael Maxsenti,FALSE,On the ballot
+CA,48,U.S. House California District 48,FALSE,2026-06-02,,Jim Desmond,FALSE,On the ballot
+CA,48,U.S. House California District 48,FALSE,2026-06-02,,Kevin O'Neil,FALSE,On the ballot
+CA,49,U.S. House California District 49,FALSE,2026-06-02,,Armen Kurdian,FALSE,On the ballot
+CA,49,U.S. House California District 49,FALSE,2026-06-02,,Star Parker,FALSE,On the ballot
+CA,50,U.S. House California District 50,FALSE,2026-06-02,,Steve Cohen,FALSE,On the ballot
+CA,51,U.S. House California District 51,FALSE,2026-06-02,,Ricardo Cabrera,FALSE,On the ballot
+CA,52,U.S. House California District 52,FALSE,2026-06-02,,Jeff Belle,FALSE,On the ballot
+CO,1,U.S. House Colorado District 1,FALSE,2026-06-30,,Christy Peterson,FALSE,On the ballot
+CO,2,U.S. House Colorado District 2,FALSE,2026-06-30,,Christina Blunt,FALSE,On the ballot
+CO,2,U.S. House Colorado District 2,FALSE,2026-06-30,,Kelley Dennison,FALSE,On the ballot
+CO,3,U.S. House Colorado District 3,FALSE,2026-06-30,,Jeff Hurd,TRUE,On the ballot
+CO,3,U.S. House Colorado District 3,FALSE,2026-06-30,,Ron Hanks,FALSE,On the ballot
+CO,4,U.S. House Colorado District 4,FALSE,2026-06-30,,Lauren Boebert,TRUE,On the ballot
+CO,5,U.S. House Colorado District 5,FALSE,2026-06-30,,Jeff Crank,TRUE,On the ballot
+CO,6,U.S. House Colorado District 6,FALSE,2026-06-30,,Mel Tewahade,FALSE,On the ballot
+CO,7,U.S. House Colorado District 7,FALSE,2026-06-30,,Timothy Bennett,FALSE,On the ballot
+CO,8,U.S. House Colorado District 8,FALSE,2026-06-30,,Gabe Evans,TRUE,On the ballot
+CT,1,U.S. House Connecticut District 1,FALSE,2026-08-11,,Amy Chai,FALSE,Candidacy declared
+CT,2,U.S. House Connecticut District 2,FALSE,2026-08-11,,George Austin,FALSE,Candidacy declared
+CT,2,U.S. House Connecticut District 2,FALSE,2026-08-11,,Mike France,FALSE,Candidacy declared
+CT,2,U.S. House Connecticut District 2,FALSE,2026-08-11,,Sean Randall,FALSE,Candidacy declared
+CT,3,U.S. House Connecticut District 3,FALSE,2026-08-11,,Rafael Irizarry,FALSE,Candidacy declared
+CT,3,U.S. House Connecticut District 3,FALSE,2026-08-11,,Christopher Lancia,FALSE,Candidacy declared
+CT,4,U.S. House Connecticut District 4,FALSE,2026-08-11,,Luz Bueno,FALSE,Candidacy declared
+CT,4,U.S. House Connecticut District 4,FALSE,2026-08-11,,Michael Goldstein,FALSE,Candidacy declared
+CT,4,U.S. House Connecticut District 4,FALSE,2026-08-11,,Daniel Miressi,FALSE,Candidacy declared
+CT,5,U.S. House Connecticut District 5,FALSE,2026-08-11,,Michele Botelho,FALSE,Candidacy declared
+CT,5,U.S. House Connecticut District 5,FALSE,2026-08-11,,John Bucciarelli,FALSE,Candidacy declared
+CT,5,U.S. House Connecticut District 5,FALSE,2026-08-11,,Jonathan De Barros,FALSE,Candidacy declared
+CT,5,U.S. House Connecticut District 5,FALSE,2026-08-11,,Chris Shea,FALSE,Candidacy declared
+DE,1,U.S. House Delaware At-large District,FALSE,2026-09-15,,Earl Cooper,FALSE,Candidacy declared
+DE,1,U.S. House Delaware At-large District,FALSE,2026-09-15,,Donyale Hall,FALSE,Candidacy declared
+DE,1,U.S. House Delaware At-large District,FALSE,2026-09-15,,Lee Murphy,FALSE,Candidacy declared
+DC,1,U.S. House Non-Voting Delegate District of Columbia,FALSE,2026-06-06,,Denise Rosado,FALSE,On the ballot
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Jimmy Patronis,TRUE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Cedric Alexander,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Douglas Chico,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Aaron Dimmock,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,John Frankman,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Charles Keebaugh,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Bernadette Pittman,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Tayla Plumer,FALSE,Candidacy declared
+FL,1,U.S. House Florida District 1,FALSE,2026-08-18,,Gene Valentino,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Keith Gross,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,George Hensarling,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Lee Jones,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Nicholas Lewis,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Nick Lewis,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Luke Murphy,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Jim Norton,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Evan Power,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Austin Rogers,FALSE,Candidacy declared
+FL,2,U.S. House Florida District 2,FALSE,2026-08-18,,Audie Rowell,FALSE,Candidacy declared
+FL,3,U.S. House Florida District 3,FALSE,2026-08-18,,Kat Cammack,TRUE,Candidacy declared
+FL,4,U.S. House Florida District 4,FALSE,2026-08-18,,Aaron Bean,TRUE,Candidacy declared
+FL,4,U.S. House Florida District 4,FALSE,2026-08-18,,Anthony Valerio,FALSE,Candidacy declared
+FL,5,U.S. House Florida District 5,FALSE,2026-08-18,,John Rutherford,TRUE,Candidacy declared
+FL,5,U.S. House Florida District 5,FALSE,2026-08-18,,Mark Kaye,FALSE,Candidacy declared
+FL,5,U.S. House Florida District 5,FALSE,2026-08-18,,Donald Muirheid,FALSE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Randy Fine,TRUE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Ernest Audino,FALSE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Aaron Baker,FALSE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Daniel Bilzerian,FALSE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Charles Gambaro,FALSE,Candidacy declared
+FL,6,U.S. House Florida District 6,FALSE,2026-08-18,,Alexandra van Cleef,FALSE,Candidacy declared
+FL,7,U.S. House Florida District 7,FALSE,2026-08-18,,Cory Mills,TRUE,Candidacy declared
+FL,7,U.S. House Florida District 7,FALSE,2026-08-18,,Ryan Elijah,FALSE,Candidacy declared
+FL,7,U.S. House Florida District 7,FALSE,2026-08-18,,Michael Johnson,FALSE,Candidacy declared
+FL,7,U.S. House Florida District 7,FALSE,2026-08-18,,Sarah Ulrich,FALSE,Candidacy declared
+FL,8,U.S. House Florida District 8,FALSE,2026-08-18,,Mike Haridopolos,TRUE,Candidacy declared
+FL,9,U.S. House Florida District 9,FALSE,2026-08-18,,Marcus Carter,FALSE,Candidacy declared
+FL,9,U.S. House Florida District 9,FALSE,2026-08-18,,Thomas Chalifoux,FALSE,Candidacy declared
+FL,9,U.S. House Florida District 9,FALSE,2026-08-18,,Jorge Malavet,FALSE,Candidacy declared
+FL,9,U.S. House Florida District 9,FALSE,2026-08-18,,Howard Steven Rance,FALSE,Candidacy declared
+FL,9,U.S. House Florida District 9,FALSE,2026-08-18,,Justin Story,FALSE,Candidacy declared
+FL,10,U.S. House Florida District 10,FALSE,2026-08-18,,Stuart Farber,FALSE,Candidacy declared
+FL,10,U.S. House Florida District 10,FALSE,2026-08-18,,Willie Montague,FALSE,Candidacy declared
+FL,10,U.S. House Florida District 10,FALSE,2026-08-18,,Vibert White,FALSE,Candidacy declared
+FL,11,U.S. House Florida District 11,FALSE,2026-08-18,,Steve Farley,FALSE,Candidacy declared
+FL,11,U.S. House Florida District 11,FALSE,2026-08-18,,Ivette Palomo,FALSE,Candidacy declared
+FL,11,U.S. House Florida District 11,FALSE,2026-08-18,,Tim Wilkins,FALSE,Candidacy declared
+FL,11,U.S. House Florida District 11,FALSE,2026-08-18,,Mike Wilnau,FALSE,Candidacy declared
+FL,12,U.S. House Florida District 12,FALSE,2026-08-18,,Gus M. Bilirakis,TRUE,Candidacy declared
+FL,13,U.S. House Florida District 13,FALSE,2026-08-18,,Anna Paulina Luna,TRUE,Candidacy declared
+FL,13,U.S. House Florida District 13,FALSE,2026-08-18,,Njällssen Amaro Lionheart,FALSE,Candidacy declared
+FL,13,U.S. House Florida District 13,FALSE,2026-08-18,,Courtney Offutt,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Michael Marcel,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Erik Mishiyev,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Robert Rochford,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Gavriel E. Soriano,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Dan Weldon,FALSE,Candidacy declared
+FL,14,U.S. House Florida District 14,FALSE,2026-08-18,,Shay Williams,FALSE,Candidacy declared
+FL,15,U.S. House Florida District 15,FALSE,2026-08-18,,Laurel Lee,TRUE,Candidacy declared
+FL,16,U.S. House Florida District 16,FALSE,2026-08-18,,Sydney Gruters,FALSE,Candidacy declared
+FL,16,U.S. House Florida District 16,FALSE,2026-08-18,,John Peters,FALSE,Candidacy declared
+FL,16,U.S. House Florida District 16,FALSE,2026-08-18,,Ed Pope,FALSE,Candidacy declared
+FL,16,U.S. House Florida District 16,FALSE,2026-08-18,,Eddie Speir,FALSE,Candidacy declared
+FL,17,U.S. House Florida District 17,FALSE,2026-08-18,,Greg Steube,TRUE,Candidacy declared
+FL,18,U.S. House Florida District 18,FALSE,2026-08-18,,Scott Franklin,TRUE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Madison Cawthorn,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Chris Collins,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,John Fratto,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Ola Hawatmeh,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Catalina Lauf,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Dylan Modarelli,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Jim Oberweis,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Mike Pedersen,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Linda Sawyer,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Jim Schwartzel,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Louis Shenker,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,John Strand,FALSE,Candidacy declared
+FL,19,U.S. House Florida District 19,FALSE,2026-08-18,,Richard Youschak,FALSE,Candidacy declared
+FL,20,U.S. House Florida District 20,FALSE,2026-08-18,,Sendra Dorce,FALSE,Candidacy declared
+FL,20,U.S. House Florida District 20,FALSE,2026-08-18,,Lateresa Jones,FALSE,Candidacy declared
+FL,20,U.S. House Florida District 20,FALSE,2026-08-18,,Rod Joseph,FALSE,Candidacy declared
+FL,21,U.S. House Florida District 21,FALSE,2026-08-18,,Brian Mast,TRUE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Deborah Adeimy,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Paola Branda,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,David Burck,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Steven Crowley,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Dan Franzese,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Anna Medvedeva,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Antonio Srado,FALSE,Candidacy declared
+FL,22,U.S. House Florida District 22,FALSE,2026-08-18,,Herbert Wertheim,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Darlene Cerezo Swaffar,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Jared Gurfein,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Raven Harrison,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Joe Kaufman,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,George Moraitis,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Rafael Ortiz,FALSE,Candidacy declared
+FL,23,U.S. House Florida District 23,FALSE,2026-08-18,,Scott Singer,FALSE,Candidacy declared
+FL,24,U.S. House Florida District 24,FALSE,2026-08-18,,Patricia Gonzalez,FALSE,Candidacy declared
+FL,24,U.S. House Florida District 24,FALSE,2026-08-18,,Imtiaz Mohammad,FALSE,Candidacy declared
+FL,25,U.S. House Florida District 25,FALSE,2026-08-18,,Michael Carbonara,FALSE,Candidacy declared
+FL,25,U.S. House Florida District 25,FALSE,2026-08-18,,Claudia Villatoro,FALSE,Candidacy declared
+FL,26,U.S. House Florida District 26,FALSE,2026-08-18,,Mario Diaz-Balart,TRUE,Candidacy declared
+FL,27,U.S. House Florida District 27,FALSE,2026-08-18,,Maria Elvira Salazar,TRUE,Candidacy declared
+FL,27,U.S. House Florida District 27,FALSE,2026-08-18,,V. Michael Arias,FALSE,Candidacy declared
+FL,27,U.S. House Florida District 27,FALSE,2026-08-18,,Gavin Solomon,FALSE,Candidacy declared
+FL,28,U.S. House Florida District 28,FALSE,2026-08-18,,Carlos Gimenez,TRUE,Candidacy declared
+FL,28,U.S. House Florida District 28,FALSE,2026-08-18,,Royland Lara,FALSE,Candidacy declared
+FL,28,U.S. House Florida District 28,FALSE,2026-08-18,,Herrera Macuran,FALSE,Candidacy declared
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,Patrick Farrell,FALSE,On the ballot
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,James Kingston,FALSE,On the ballot
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,Brian Montgomery,FALSE,On the ballot
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,Krista Penn,FALSE,On the ballot
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,Kandiss Taylor,FALSE,On the ballot
+GA,1,U.S. House Georgia District 1,FALSE,2026-05-19,2026-06-16,Eugene Yu,FALSE,On the ballot
+GA,2,U.S. House Georgia District 2,FALSE,2026-05-19,2026-06-16,Matt Day,FALSE,On the ballot
+GA,3,U.S. House Georgia District 3,FALSE,2026-05-19,2026-06-16,Brian Jack,TRUE,On the ballot
+GA,4,U.S. House Georgia District 4,FALSE,2026-05-19,2026-06-16,James Duffie,FALSE,On the ballot
+GA,5,U.S. House Georgia District 5,FALSE,2026-05-19,2026-06-16,John Salvesen,FALSE,On the ballot
+GA,6,U.S. House Georgia District 6,FALSE,2026-05-19,2026-06-16,Kevin Martin,FALSE,On the ballot
+GA,6,U.S. House Georgia District 6,FALSE,2026-05-19,2026-06-16,Justin Pinker,FALSE,On the ballot
+GA,7,U.S. House Georgia District 7,FALSE,2026-05-19,2026-06-16,Rich McCormick,TRUE,On the ballot
+GA,8,U.S. House Georgia District 8,FALSE,2026-05-19,2026-06-16,Austin Scott,TRUE,On the ballot
+GA,9,U.S. House Georgia District 9,FALSE,2026-05-19,2026-06-16,Andrew Clyde,TRUE,On the ballot
+GA,9,U.S. House Georgia District 9,FALSE,2026-05-19,2026-06-16,Sam Couvillon,FALSE,On the ballot
+GA,9,U.S. House Georgia District 9,FALSE,2026-05-19,2026-06-16,Gregg Poole,FALSE,On the ballot
+GA,10,U.S. House Georgia District 10,FALSE,2026-05-19,2026-06-16,Jeff Baker,FALSE,On the ballot
+GA,10,U.S. House Georgia District 10,FALSE,2026-05-19,2026-06-16,Houston Gaines,FALSE,On the ballot
+GA,10,U.S. House Georgia District 10,FALSE,2026-05-19,2026-06-16,Ryan Millsap,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,Rob Adkerson,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,William Brown,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,Lisa Carlquist,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,John Cowan,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,John Hobbs,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,Uloma Ekpete Kama,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,Chris Mora,FALSE,On the ballot
+GA,11,U.S. House Georgia District 11,FALSE,2026-05-19,2026-06-16,Tricia Pridemore,FALSE,On the ballot
+GA,12,U.S. House Georgia District 12,FALSE,2026-05-19,2026-06-16,Rick Allen,TRUE,On the ballot
+GA,12,U.S. House Georgia District 12,FALSE,2026-05-19,2026-06-16,Tori Branum,FALSE,On the ballot
+GA,13,U.S. House Georgia District 13,FALSE,2026-05-19,2026-06-16,Jonathan Chavez,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Clayton Fuller,TRUE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Star Black,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Reagan Box,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Beau Brown,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Eric Cunningham,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Tom Gray,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Nicky Lama,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Colton Moore,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,Brian Stover,FALSE,On the ballot
+GA,14,U.S. House Georgia District 14,FALSE,2026-05-19,2026-06-16,James Tully,FALSE,On the ballot
+HI,1,U.S. House Hawaii District 1,FALSE,2026-08-08,,Maxwell Frazier,FALSE,Candidacy declared
+HI,1,U.S. House Hawaii District 1,FALSE,2026-08-08,,Adriel Lam,FALSE,Candidacy declared
+HI,2,U.S. House Hawaii District 2,FALSE,2026-08-08,,Brenton Awa,FALSE,Candidacy declared
+ID,1,U.S. House Idaho District 1,FALSE,2026-05-19,,Russ Fulcher,TRUE,On the ballot
+ID,1,U.S. House Idaho District 1,FALSE,2026-05-19,,Andy Briner,FALSE,On the ballot
+ID,1,U.S. House Idaho District 1,FALSE,2026-05-19,,Joseph Morrison,FALSE,On the ballot
+ID,2,U.S. House Idaho District 2,FALSE,2026-05-19,,Michael K. Simpson,TRUE,On the ballot
+ID,2,U.S. House Idaho District 2,FALSE,2026-05-19,,Brian Keene,FALSE,On the ballot
+ID,2,U.S. House Idaho District 2,FALSE,2026-05-19,,Perry Shumway,FALSE,On the ballot
+IL,1,U.S. House Illinois District 1,FALSE,2026-03-17,,Christian Maxwell,FALSE,Advanced
+IL,1,U.S. House Illinois District 1,FALSE,2026-03-17,,Marcus Lewis,FALSE,Lost
+IL,2,U.S. House Illinois District 2,FALSE,2026-03-17,,Mike Noack,FALSE,Advanced
+IL,3,U.S. House Illinois District 3,FALSE,2026-03-17,,Angel Oakley,FALSE,Advanced
+IL,4,U.S. House Illinois District 4,FALSE,2026-03-17,,Lupe Castillo,FALSE,Advanced
+IL,5,U.S. House Illinois District 5,FALSE,2026-03-17,,Tom Hanson,FALSE,Advanced
+IL,5,U.S. House Illinois District 5,FALSE,2026-03-17,,Kimball Ladien,FALSE,Lost
+IL,5,U.S. House Illinois District 5,FALSE,2026-03-17,,Barry Wicker,FALSE,Lost
+IL,6,U.S. House Illinois District 6,FALSE,2026-03-17,,Niki Conforti,FALSE,Advanced
+IL,6,U.S. House Illinois District 6,FALSE,2026-03-17,,Skylar Duensing,FALSE,Lost
+IL,7,U.S. House Illinois District 7,FALSE,2026-03-17,,Chad Koppie,FALSE,Advanced
+IL,7,U.S. House Illinois District 7,FALSE,2026-03-17,,Patricia Easley,FALSE,Lost
+IL,8,U.S. House Illinois District 8,FALSE,2026-03-17,,Jennifer Davis,FALSE,Advanced
+IL,8,U.S. House Illinois District 8,FALSE,2026-03-17,,Kevin Ake,FALSE,Lost
+IL,8,U.S. House Illinois District 8,FALSE,2026-03-17,,Herbert Hebein,FALSE,Lost
+IL,8,U.S. House Illinois District 8,FALSE,2026-03-17,,Mark Rice,FALSE,Lost
+IL,9,U.S. House Illinois District 9,FALSE,2026-03-17,,John Elleson,FALSE,Advanced
+IL,9,U.S. House Illinois District 9,FALSE,2026-03-17,,Rocio Cleveland,FALSE,Lost
+IL,9,U.S. House Illinois District 9,FALSE,2026-03-17,,Paul Friedman,FALSE,Lost
+IL,9,U.S. House Illinois District 9,FALSE,2026-03-17,,Mark Su,FALSE,Lost
+IL,10,U.S. House Illinois District 10,FALSE,2026-03-17,,Carl Lambrecht,FALSE,Advanced
+IL,11,U.S. House Illinois District 11,FALSE,2026-03-17,,Jeffrey Walter,FALSE,Advanced
+IL,11,U.S. House Illinois District 11,FALSE,2026-03-17,,Tedora Brown,FALSE,Lost
+IL,11,U.S. House Illinois District 11,FALSE,2026-03-17,,Charlie Kim,FALSE,Lost
+IL,11,U.S. House Illinois District 11,FALSE,2026-03-17,,Mike Pierce,FALSE,Lost
+IL,12,U.S. House Illinois District 12,FALSE,2026-03-17,,Mike Bost,TRUE,Advanced
+IL,13,U.S. House Illinois District 13,FALSE,2026-03-17,,Jeff Wilson,FALSE,Advanced
+IL,13,U.S. House Illinois District 13,FALSE,2026-03-17,,Joshua Loyd,FALSE,Lost
+IL,14,U.S. House Illinois District 14,FALSE,2026-03-17,,James Marter,FALSE,Advanced
+IL,14,U.S. House Illinois District 14,FALSE,2026-03-17,,Krystal Dorey,FALSE,Lost (write-in)
+IL,14,U.S. House Illinois District 14,FALSE,2026-03-17,,Gary Vician,FALSE,Lost
+IL,15,U.S. House Illinois District 15,FALSE,2026-03-17,,Mary Miller,TRUE,Advanced
+IL,15,U.S. House Illinois District 15,FALSE,2026-03-17,,Judy Bowlby,FALSE,Lost
+IL,15,U.S. House Illinois District 15,FALSE,2026-03-17,,Ryan Tebrugge,FALSE,Lost
+IL,16,U.S. House Illinois District 16,FALSE,2026-03-17,,Darin LaHood,TRUE,Advanced
+IL,17,U.S. House Illinois District 17,FALSE,2026-03-17,,Dillan Vancil,FALSE,Advanced
+IL,17,U.S. House Illinois District 17,FALSE,2026-03-17,,Julie Bickelhaupt,FALSE,Lost
+IN,1,U.S. House Indiana District 1,FALSE,2026-05-05,,Barb Regnitz,FALSE,On the ballot
+IN,1,U.S. House Indiana District 1,FALSE,2026-05-05,,David Ben Ruiz,FALSE,On the ballot
+IN,1,U.S. House Indiana District 1,FALSE,2026-05-05,,James Schenke,FALSE,On the ballot
+IN,2,U.S. House Indiana District 2,FALSE,2026-05-05,,Rudy Yakym,TRUE,On the ballot
+IN,3,U.S. House Indiana District 3,FALSE,2026-05-05,,Marlin A. Stutzman,TRUE,On the ballot
+IN,3,U.S. House Indiana District 3,FALSE,2026-05-05,,Jon Kenworthy,FALSE,On the ballot
+IN,4,U.S. House Indiana District 4,FALSE,2026-05-05,,Jim Baird,TRUE,On the ballot
+IN,4,U.S. House Indiana District 4,FALSE,2026-05-05,,Craig Haggard,FALSE,On the ballot
+IN,4,U.S. House Indiana District 4,FALSE,2026-05-05,,John Piper,FALSE,On the ballot
+IN,5,U.S. House Indiana District 5,FALSE,2026-05-05,,Victoria Spartz,TRUE,On the ballot
+IN,5,U.S. House Indiana District 5,FALSE,2026-05-05,,Scott King,FALSE,On the ballot
+IN,6,U.S. House Indiana District 6,FALSE,2026-05-05,,Jefferson Shreve,TRUE,On the ballot
+IN,6,U.S. House Indiana District 6,FALSE,2026-05-05,,Sarah Brown,FALSE,On the ballot
+IN,7,U.S. House Indiana District 7,FALSE,2026-05-05,,Patrick McAuley,FALSE,On the ballot
+IN,7,U.S. House Indiana District 7,FALSE,2026-05-05,,Felipe Rios,FALSE,On the ballot
+IN,8,U.S. House Indiana District 8,FALSE,2026-05-05,,Mark Messmer,TRUE,On the ballot
+IN,9,U.S. House Indiana District 9,FALSE,2026-05-05,,Erin Houchin,TRUE,On the ballot
+IA,1,U.S. House Iowa District 1,FALSE,2026-06-02,,Mariannette Miller-Meeks,TRUE,On the ballot
+IA,1,U.S. House Iowa District 1,FALSE,2026-06-02,,David Pautsch,FALSE,On the ballot
+IA,2,U.S. House Iowa District 2,FALSE,2026-06-02,,Charlie McClintock,FALSE,On the ballot
+IA,2,U.S. House Iowa District 2,FALSE,2026-06-02,,Joe Mitchell,FALSE,On the ballot
+IA,3,U.S. House Iowa District 3,FALSE,2026-06-02,,Zach Nunn,TRUE,On the ballot
+IA,4,U.S. House Iowa District 4,FALSE,2026-06-02,,Chris McGowan,FALSE,On the ballot
+KS,1,U.S. House Kansas District 1,FALSE,2026-08-04,,Tracey Mann,TRUE,Candidacy declared
+KS,2,U.S. House Kansas District 2,FALSE,2026-08-04,,Derek Schmidt,TRUE,Candidacy declared
+KS,3,U.S. House Kansas District 3,FALSE,2026-08-04,,Chase LaPorte,FALSE,Candidacy declared
+KS,3,U.S. House Kansas District 3,FALSE,2026-08-04,,Blake Stanley,FALSE,Candidacy declared
+KS,4,U.S. House Kansas District 4,FALSE,2026-08-04,,Ron Estes,TRUE,Candidacy declared
+KY,1,U.S. House Kentucky District 1,FALSE,2026-05-19,,James Comer Jr.,TRUE,On the ballot
+KY,1,U.S. House Kentucky District 1,FALSE,2026-05-19,,Penny Arcos,FALSE,On the ballot
+KY,1,U.S. House Kentucky District 1,FALSE,2026-05-19,,David Sims,FALSE,On the ballot
+KY,1,U.S. House Kentucky District 1,FALSE,2026-05-19,,Robert James Sutherby,FALSE,On the ballot
+KY,2,U.S. House Kentucky District 2,FALSE,2026-05-19,,Brett Guthrie,TRUE,On the ballot
+KY,2,U.S. House Kentucky District 2,FALSE,2026-05-19,,G. Perry Adelmann,FALSE,On the ballot
+KY,2,U.S. House Kentucky District 2,FALSE,2026-05-19,,Joshua Ferguson,FALSE,On the ballot
+KY,3,U.S. House Kentucky District 3,FALSE,2026-05-19,,Daniel Cobble,FALSE,On the ballot
+KY,3,U.S. House Kentucky District 3,FALSE,2026-05-19,,David Nichter,FALSE,On the ballot
+KY,3,U.S. House Kentucky District 3,FALSE,2026-05-19,,Donald Pay,FALSE,On the ballot
+KY,3,U.S. House Kentucky District 3,FALSE,2026-05-19,,Maria Teresa Rodriguez,FALSE,On the ballot
+KY,4,U.S. House Kentucky District 4,FALSE,2026-05-19,,Thomas Massie,TRUE,On the ballot
+KY,4,U.S. House Kentucky District 4,FALSE,2026-05-19,,Ed Gallrein,FALSE,On the ballot
+KY,5,U.S. House Kentucky District 5,FALSE,2026-05-19,,Hal Rogers,TRUE,On the ballot
+KY,5,U.S. House Kentucky District 5,FALSE,2026-05-19,,Benjamin Hurley,FALSE,On the ballot
+KY,5,U.S. House Kentucky District 5,FALSE,2026-05-19,,Brandon Monhollen,FALSE,On the ballot
+KY,5,U.S. House Kentucky District 5,FALSE,2026-05-19,,Jerry Shelton,FALSE,On the ballot
+KY,5,U.S. House Kentucky District 5,FALSE,2026-05-19,,Kevin Smith,FALSE,On the ballot
+KY,6,U.S. House Kentucky District 6,FALSE,2026-05-19,,Ralph Alvarado,FALSE,On the ballot
+KY,6,U.S. House Kentucky District 6,FALSE,2026-05-19,,Ryan Dotson,FALSE,On the ballot
+KY,6,U.S. House Kentucky District 6,FALSE,2026-05-19,,Adam Perez Arquette,FALSE,On the ballot
+KY,6,U.S. House Kentucky District 6,FALSE,2026-05-19,,Greg Plucinski,FALSE,On the ballot
+KY,6,U.S. House Kentucky District 6,FALSE,2026-05-19,,Steve Shannon,FALSE,On the ballot
+ME,1,U.S. House Maine District 1,FALSE,2026-06-09,,Joshua Pietrowicz,FALSE,On the ballot
+ME,1,U.S. House Maine District 1,FALSE,2026-06-09,,Ronald C. Russell,FALSE,On the ballot
+ME,2,U.S. House Maine District 2,FALSE,2026-06-09,,Paul LePage,FALSE,On the ballot
+MD,1,U.S. House Maryland District 1,FALSE,2026-06-23,,Andrew Harris,TRUE,On the ballot
+MD,1,U.S. House Maryland District 1,FALSE,2026-06-23,,Christopher Bruneau,FALSE,On the ballot
+MD,2,U.S. House Maryland District 2,FALSE,2026-06-23,,Nnabu Eze,FALSE,On the ballot
+MD,2,U.S. House Maryland District 2,FALSE,2026-06-23,,Dave Wallace,FALSE,On the ballot
+MD,3,U.S. House Maryland District 3,FALSE,2026-06-23,,Ray Bly,FALSE,On the ballot
+MD,3,U.S. House Maryland District 3,FALSE,2026-06-23,,Bernard Flowers,FALSE,On the ballot
+MD,3,U.S. House Maryland District 3,FALSE,2026-06-23,,Felix Seier,FALSE,On the ballot
+MD,3,U.S. House Maryland District 3,FALSE,2026-06-23,,John White,FALSE,On the ballot
+MD,4,U.S. House Maryland District 4,FALSE,2026-06-23,,George McDermott,FALSE,On the ballot
+MD,5,U.S. House Maryland District 5,FALSE,2026-06-23,,Chris Chaffee,FALSE,On the ballot
+MD,5,U.S. House Maryland District 5,FALSE,2026-06-23,,Bryan Duval Cubero,FALSE,On the ballot
+MD,5,U.S. House Maryland District 5,FALSE,2026-06-23,,Michelle Talkington,FALSE,On the ballot
+MD,6,U.S. House Maryland District 6,FALSE,2026-06-23,,Christopher Burnett,FALSE,On the ballot
+MD,6,U.S. House Maryland District 6,FALSE,2026-06-23,,Robin Ficker,FALSE,On the ballot
+MD,6,U.S. House Maryland District 6,FALSE,2026-06-23,,Mariela Roca,FALSE,On the ballot
+MD,7,U.S. House Maryland District 7,FALSE,2026-06-23,,Scott Collier,FALSE,On the ballot
+MD,8,U.S. House Maryland District 8,FALSE,2026-06-23,,Anita Cox,FALSE,On the ballot
+MD,8,U.S. House Maryland District 8,FALSE,2026-06-23,,Donald Lech,FALSE,On the ballot
+MD,8,U.S. House Maryland District 8,FALSE,2026-06-23,,Cheryl Riley,FALSE,On the ballot
+MD,8,U.S. House Maryland District 8,FALSE,2026-06-23,,Michael Yadeta,FALSE,On the ballot
+MA,3,U.S. House Massachusetts District 3,FALSE,2026-09-01,,Gary Grossi,FALSE,Candidacy declared
+MA,4,U.S. House Massachusetts District 4,FALSE,2026-09-01,,Thomas Stalcup,FALSE,Candidacy declared
+MA,6,U.S. House Massachusetts District 6,FALSE,2026-09-01,,John Field,FALSE,Candidacy declared
+MA,6,U.S. House Massachusetts District 6,FALSE,2026-09-01,,Micah Jones,FALSE,Candidacy declared
+MA,8,U.S. House Massachusetts District 8,FALSE,2026-09-01,,Walter Grochowski,FALSE,Candidacy declared
+MA,9,U.S. House Massachusetts District 9,FALSE,2026-09-01,,Robert MacAllister,FALSE,Candidacy declared
+MI,1,U.S. House Michigan District 1,FALSE,2026-08-04,,Jack Bergman,TRUE,Candidacy declared
+MI,1,U.S. House Michigan District 1,FALSE,2026-08-04,,Matthew DenOtter,FALSE,Candidacy declared
+MI,1,U.S. House Michigan District 1,FALSE,2026-08-04,,Justin Michal,FALSE,Candidacy declared
+MI,2,U.S. House Michigan District 2,FALSE,2026-08-04,,John Moolenaar,TRUE,Candidacy declared
+MI,3,U.S. House Michigan District 3,FALSE,2026-08-04,,Ryan Cushman,FALSE,Candidacy declared
+MI,3,U.S. House Michigan District 3,FALSE,2026-08-04,,Terri DeBoer,FALSE,Candidacy declared
+MI,3,U.S. House Michigan District 3,FALSE,2026-08-04,,J. Allen Fiorletta,FALSE,Candidacy declared
+MI,4,U.S. House Michigan District 4,FALSE,2026-08-04,,Bill Huizenga,TRUE,Candidacy declared
+MI,4,U.S. House Michigan District 4,FALSE,2026-08-04,,Philip Tanis,FALSE,Candidacy declared
+MI,5,U.S. House Michigan District 5,FALSE,2026-08-04,,Tim Walberg,TRUE,Candidacy declared
+MI,6,U.S. House Michigan District 6,FALSE,2026-08-04,,Heather Smiley,FALSE,Candidacy declared
+MI,7,U.S. House Michigan District 7,FALSE,2026-08-04,,Tom Barrett,TRUE,Candidacy declared
+MI,8,U.S. House Michigan District 8,FALSE,2026-08-04,,Amir Hassan,FALSE,Candidacy declared
+MI,8,U.S. House Michigan District 8,FALSE,2026-08-04,,Al Lemmo,FALSE,Candidacy declared
+MI,8,U.S. House Michigan District 8,FALSE,2026-08-04,,Thomas J. Smith,FALSE,Candidacy declared
+MI,9,U.S. House Michigan District 9,FALSE,2026-08-04,,Lisa McClain,TRUE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,John James,TRUE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Casey Armitage,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Michael Bouchard,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Steffan Demetropoulos,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Steven Elliott,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Cody Ingram,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Justin Kirk,FALSE,Candidacy declared
+MI,10,U.S. House Michigan District 10,FALSE,2026-08-04,,Robert Lulgjuraj,FALSE,Candidacy declared
+MI,11,U.S. House Michigan District 11,FALSE,2026-08-04,,Ethan Baker,FALSE,Candidacy declared
+MI,11,U.S. House Michigan District 11,FALSE,2026-08-04,,Anthony Paesano,FALSE,Candidacy declared
+MI,12,U.S. House Michigan District 12,FALSE,2026-08-04,,James Hooper,FALSE,Candidacy declared
+MI,13,U.S. House Michigan District 13,FALSE,2026-08-04,,Martell Bivings,FALSE,Candidacy declared
+MI,13,U.S. House Michigan District 13,FALSE,2026-08-04,,Articia Bomer,FALSE,Candidacy declared
+MI,13,U.S. House Michigan District 13,FALSE,2026-08-04,,Raphiel King,FALSE,Candidacy declared
+MI,13,U.S. House Michigan District 13,FALSE,2026-08-04,,Andrew Lorenz,FALSE,Candidacy declared
+MI,13,U.S. House Michigan District 13,FALSE,2026-08-04,,Taras Nykoriak,FALSE,Candidacy declared
+MN,1,U.S. House Minnesota District 1,FALSE,2026-08-11,,Brad Finstad,TRUE,Candidacy declared
+MN,2,U.S. House Minnesota District 2,FALSE,2026-08-11,,Eric Pratt,FALSE,Candidacy declared
+MN,2,U.S. House Minnesota District 2,FALSE,2026-08-11,,Jeremy Westby,FALSE,Candidacy declared
+MN,3,U.S. House Minnesota District 3,FALSE,2026-08-11,,Tyler Bass,FALSE,Candidacy declared
+MN,3,U.S. House Minnesota District 3,FALSE,2026-08-11,,Quentin Wittrock,FALSE,Candidacy declared
+MN,4,U.S. House Minnesota District 4,FALSE,2026-08-11,,Paul Wikstrom,FALSE,Candidacy declared
+MN,4,U.S. House Minnesota District 4,FALSE,2026-08-11,,Paul Xiong,FALSE,Candidacy declared
+MN,5,U.S. House Minnesota District 5,FALSE,2026-08-11,,John Nagel,FALSE,Candidacy declared
+MN,5,U.S. House Minnesota District 5,FALSE,2026-08-11,,Angela Marie Walls-Windhauser,FALSE,Candidacy declared
+MN,5,U.S. House Minnesota District 5,FALSE,2026-08-11,,Dalia al-Aqidi,FALSE,Candidacy declared
+MN,6,U.S. House Minnesota District 6,FALSE,2026-08-11,,Tom Emmer,TRUE,Candidacy declared
+MN,6,U.S. House Minnesota District 6,FALSE,2026-08-11,,Michael Foley,FALSE,Candidacy declared
+MN,7,U.S. House Minnesota District 7,FALSE,2026-08-11,,Michelle Fischbach,TRUE,Candidacy declared
+MN,7,U.S. House Minnesota District 7,FALSE,2026-08-11,,Dave Hughes,FALSE,Candidacy declared
+MN,8,U.S. House Minnesota District 8,FALSE,2026-08-11,,Pete Stauber,TRUE,Candidacy declared
+MN,8,U.S. House Minnesota District 8,FALSE,2026-08-11,,Anthony Hamilton,FALSE,Candidacy declared
+MS,1,U.S. House Mississippi District 1,FALSE,2026-03-10,2026-04-07,Trent Kelly,TRUE,Advanced
+MS,2,U.S. House Mississippi District 2,FALSE,2026-03-10,2026-04-07,Ron Eller,FALSE,Advanced
+MS,2,U.S. House Mississippi District 2,FALSE,2026-03-10,2026-04-07,Kevin Wilson,FALSE,Lost
+MS,3,U.S. House Mississippi District 3,FALSE,2026-03-10,2026-04-07,Michael Guest,TRUE,Advanced
+MS,4,U.S. House Mississippi District 4,FALSE,2026-03-10,2026-04-07,Mike Ezell,TRUE,Advanced
+MS,4,U.S. House Mississippi District 4,FALSE,2026-03-10,2026-04-07,Sawyer Walters,FALSE,Lost
+MO,1,U.S. House Missouri District 1,FALSE,2026-08-04,,Paul Berry,FALSE,Candidacy declared
+MO,1,U.S. House Missouri District 1,FALSE,2026-08-04,,Andrew Jones Jr.,FALSE,Candidacy declared
+MO,2,U.S. House Missouri District 2,FALSE,2026-08-04,,Ann Wagner,TRUE,Candidacy declared
+MO,2,U.S. House Missouri District 2,FALSE,2026-08-04,,Matthew Grant,FALSE,Candidacy declared
+MO,2,U.S. House Missouri District 2,FALSE,2026-08-04,,Peter Pfeifer,FALSE,Candidacy declared
+MO,2,U.S. House Missouri District 2,FALSE,2026-08-04,,Elizabeth Sparks-Holmes,FALSE,Candidacy declared
+MO,2,U.S. House Missouri District 2,FALSE,2026-08-04,,Brandon Wilkinson,FALSE,Candidacy declared
+MO,3,U.S. House Missouri District 3,FALSE,2026-08-04,,Bob Onder,TRUE,Candidacy declared
+MO,3,U.S. House Missouri District 3,FALSE,2026-08-04,,John Fraser,FALSE,Candidacy declared
+MO,4,U.S. House Missouri District 4,FALSE,2026-08-04,,Mark Alford,TRUE,Candidacy declared
+MO,4,U.S. House Missouri District 4,FALSE,2026-08-04,,Heather Shelton,FALSE,Candidacy declared
+MO,4,U.S. House Missouri District 4,FALSE,2026-08-04,,Scott Vera,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Micah Beebe,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Rick Brattin,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Taylor Burks,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Robert Foltz,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Brett Hueffmeier,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Berton A. Knox,FALSE,Candidacy declared
+MO,5,U.S. House Missouri District 5,FALSE,2026-08-04,,Brad Patty,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Jim Ingram,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Cody Oshel,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Gena Ross,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Nathanael Schultz,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Chris Stigall,FALSE,Candidacy declared
+MO,6,U.S. House Missouri District 6,FALSE,2026-08-04,,Nathan Willett,FALSE,Candidacy declared
+MO,7,U.S. House Missouri District 7,FALSE,2026-08-04,,Eric Burlison,TRUE,Candidacy declared
+MO,7,U.S. House Missouri District 7,FALSE,2026-08-04,,John Casey,FALSE,Candidacy declared
+MO,7,U.S. House Missouri District 7,FALSE,2026-08-04,,Grayson Hunt,FALSE,Candidacy declared
+MO,8,U.S. House Missouri District 8,FALSE,2026-08-04,,Jason Smith,TRUE,Candidacy declared
+MO,8,U.S. House Missouri District 8,FALSE,2026-08-04,,Gordon Heslop,FALSE,Candidacy declared
+MO,8,U.S. House Missouri District 8,FALSE,2026-08-04,,Johnathon Tune,FALSE,Candidacy declared
+MT,1,U.S. House Montana District 1,FALSE,2026-06-02,,Ray Curtis,FALSE,On the ballot
+MT,1,U.S. House Montana District 1,FALSE,2026-06-02,,Aaron Flint,FALSE,On the ballot
+MT,1,U.S. House Montana District 1,FALSE,2026-06-02,,Christi Jacobsen,FALSE,On the ballot
+MT,1,U.S. House Montana District 1,FALSE,2026-06-02,,Albert Olszewski,FALSE,On the ballot
+MT,2,U.S. House Montana District 2,FALSE,2026-06-02,,Troy Downing,TRUE,On the ballot
+NE,1,U.S. House Nebraska District 1,FALSE,2026-05-12,,Mike Flood,TRUE,On the ballot
+NE,2,U.S. House Nebraska District 2,FALSE,2026-05-12,,Brinker Harding,FALSE,On the ballot
+NE,3,U.S. House Nebraska District 3,FALSE,2026-05-12,,Adrian Smith,TRUE,On the ballot
+NE,3,U.S. House Nebraska District 3,FALSE,2026-05-12,,David Huebner,FALSE,On the ballot
+NV,1,U.S. House Nevada District 1,FALSE,2026-06-09,,Jim Blockey,FALSE,On the ballot
+NV,1,U.S. House Nevada District 1,FALSE,2026-06-09,,Michael Boris,FALSE,On the ballot
+NV,1,U.S. House Nevada District 1,FALSE,2026-06-09,,Carrie Buck,FALSE,On the ballot
+NV,1,U.S. House Nevada District 1,FALSE,2026-06-09,,Marie Encar Arnold,FALSE,On the ballot
+NV,1,U.S. House Nevada District 1,FALSE,2026-06-09,,Rick Saga,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Jennifer Billat,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Thomas Doyle,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,David Flippo,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,George Forbush,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Bruce Grego,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Andrea Lowe,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Jerry Olsen,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,James A. Settelmeyer,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Rick Shepherd,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Fred Simon Jr.,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Michael Smith,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Sherman Tylawsky,FALSE,On the ballot
+NV,2,U.S. House Nevada District 2,FALSE,2026-06-09,,Jesse Watts,FALSE,On the ballot
+NV,3,U.S. House Nevada District 3,FALSE,2026-06-09,,Tera Anderson,FALSE,On the ballot
+NV,3,U.S. House Nevada District 3,FALSE,2026-06-09,,Jeff Gunter,FALSE,On the ballot
+NV,3,U.S. House Nevada District 3,FALSE,2026-06-09,,Aury Nagy,FALSE,On the ballot
+NV,3,U.S. House Nevada District 3,FALSE,2026-06-09,,Marty O'Donnell,FALSE,On the ballot
+NV,4,U.S. House Nevada District 4,FALSE,2026-06-09,,Ronda Kennedy,FALSE,On the ballot
+NV,4,U.S. House Nevada District 4,FALSE,2026-06-09,,Anthony Snowden,FALSE,On the ballot
+NV,4,U.S. House Nevada District 4,FALSE,2026-06-09,,Cody Whipple,FALSE,On the ballot
+NH,1,U.S. House New Hampshire District 1,FALSE,2026-09-08,,Melissa Bailey,FALSE,Candidacy declared
+NH,1,U.S. House New Hampshire District 1,FALSE,2026-09-08,,Brian Cole,FALSE,Candidacy declared
+NH,1,U.S. House New Hampshire District 1,FALSE,2026-09-08,,Anthony DiLorenzo,FALSE,Candidacy declared
+NH,1,U.S. House New Hampshire District 1,FALSE,2026-09-08,,Elizabeth Girard,FALSE,Candidacy declared
+NH,1,U.S. House New Hampshire District 1,FALSE,2026-09-08,,Hollie Noveletsky,FALSE,Candidacy declared
+NH,2,U.S. House New Hampshire District 2,FALSE,2026-09-08,,Victor Orlando,FALSE,Candidacy declared
+NH,2,U.S. House New Hampshire District 2,FALSE,2026-09-08,,Lily Williams,FALSE,Candidacy declared
+NJ,1,U.S. House New Jersey District 1,FALSE,2026-06-02,,Damon Galdo,FALSE,On the ballot
+NJ,2,U.S. House New Jersey District 2,FALSE,2026-06-02,,Jeff Van Drew,TRUE,On the ballot
+NJ,3,U.S. House New Jersey District 3,FALSE,2026-06-02,,Justin Barbera,FALSE,On the ballot
+NJ,3,U.S. House New Jersey District 3,FALSE,2026-06-02,,Jason Cullen,FALSE,On the ballot
+NJ,3,U.S. House New Jersey District 3,FALSE,2026-06-02,,Michael McGuire,FALSE,On the ballot
+NJ,4,U.S. House New Jersey District 4,FALSE,2026-06-02,,Chris Smith,TRUE,On the ballot
+NJ,5,U.S. House New Jersey District 5,FALSE,2026-06-02,,Sean Kirrane,FALSE,On the ballot
+NJ,6,U.S. House New Jersey District 6,FALSE,2026-06-02,,Hillary Herzig,FALSE,On the ballot
+NJ,7,U.S. House New Jersey District 7,FALSE,2026-06-02,,Thomas Kean Jr.,TRUE,On the ballot
+NJ,9,U.S. House New Jersey District 9,FALSE,2026-06-02,,Tiffany Burress,FALSE,On the ballot
+NJ,9,U.S. House New Jersey District 9,FALSE,2026-06-02,,Rosemary Pino,FALSE,On the ballot
+NJ,10,U.S. House New Jersey District 10,FALSE,2026-06-02,,Carmen Bucco,FALSE,On the ballot
+NJ,11,U.S. House New Jersey District 11 (Special election),TRUE,2026-06-02,,Joe Hathaway,FALSE,Advanced
+NJ,11,U.S. House New Jersey District 11,FALSE,2026-06-02,,Joe Hathaway,FALSE,On the ballot
+NJ,12,U.S. House New Jersey District 12,FALSE,2026-06-02,,Gregg Mele,FALSE,On the ballot
+NM,1,U.S. House New Mexico District 1,FALSE,2026-06-02,,Ndidiamaka Okpareke,FALSE,On the ballot
+NM,2,U.S. House New Mexico District 2,FALSE,2026-06-02,,Greg Cunningham,FALSE,On the ballot
+NM,2,U.S. House New Mexico District 2,FALSE,2026-06-02,,Jose Orozco,FALSE,On the ballot
+NM,3,U.S. House New Mexico District 3,FALSE,2026-06-02,,Martin Ruben Zamora,FALSE,On the ballot
+NY,1,U.S. House New York District 1,FALSE,2026-06-23,,Nicholas J. LaLota,TRUE,Candidacy declared
+NY,2,U.S. House New York District 2,FALSE,2026-06-23,,Andrew Garbarino,TRUE,Candidacy declared
+NY,3,U.S. House New York District 3,FALSE,2026-06-23,,Gregory Hach,FALSE,Candidacy declared
+NY,3,U.S. House New York District 3,FALSE,2026-06-23,,Michael Lavery,FALSE,Candidacy declared
+NY,3,U.S. House New York District 3,FALSE,2026-06-23,,Michael LiPetri Jr.,FALSE,Candidacy declared
+NY,4,U.S. House New York District 4,FALSE,2026-06-23,,Dennis McGrath,FALSE,Candidacy declared
+NY,4,U.S. House New York District 4,FALSE,2026-06-23,,Brian Miller,FALSE,Candidacy declared
+NY,4,U.S. House New York District 4,FALSE,2026-06-23,,Martin Smithmyer,FALSE,Candidacy declared
+NY,4,U.S. House New York District 4,FALSE,2026-06-23,,Marvin Suber Williams,FALSE,Candidacy declared
+NY,5,U.S. House New York District 5,FALSE,2026-06-23,,Alexandria Foxworth,FALSE,Candidacy declared
+NY,5,U.S. House New York District 5,FALSE,2026-06-23,,George Marsh,FALSE,Candidacy declared
+NY,6,U.S. House New York District 6,FALSE,2026-06-23,,Joseph Chou,FALSE,Candidacy declared
+NY,7,U.S. House New York District 7,FALSE,2026-06-23,,Melvin Rivera,FALSE,Candidacy declared
+NY,8,U.S. House New York District 8,FALSE,2026-06-23,,Lewis Mizrahi,FALSE,Candidacy declared
+NY,8,U.S. House New York District 8,FALSE,2026-06-23,,Richard Simmons,FALSE,Candidacy declared
+NY,9,U.S. House New York District 9,FALSE,2026-06-23,,Joel Anabilah-Azumah,FALSE,Candidacy declared
+NY,9,U.S. House New York District 9,FALSE,2026-06-23,,Jean Depalis,FALSE,Candidacy declared
+NY,10,U.S. House New York District 10,FALSE,2026-06-23,,Jennifer Moore,FALSE,Candidacy declared
+NY,11,U.S. House New York District 11,FALSE,2026-06-23,,Nicole Malliotakis,TRUE,Candidacy declared
+NY,12,U.S. House New York District 12,FALSE,2026-06-23,,Kaley Aldrich,FALSE,Candidacy declared
+NY,12,U.S. House New York District 12,FALSE,2026-06-23,,Amy Jordan,FALSE,Candidacy declared
+NY,12,U.S. House New York District 12,FALSE,2026-06-23,,Caroline Shinkle,FALSE,Candidacy declared
+NY,12,U.S. House New York District 12,FALSE,2026-06-23,,Gavin Solomon,FALSE,Candidacy declared
+NY,12,U.S. House New York District 12,FALSE,2026-06-23,,Massimiliano Zappone,FALSE,Candidacy declared
+NY,13,U.S. House New York District 13,FALSE,2026-06-23,,Emmanuel Williams,FALSE,Candidacy declared
+NY,13,U.S. House New York District 13,FALSE,2026-06-23,,Manual Williams,FALSE,Candidacy declared
+NY,14,U.S. House New York District 14,FALSE,2026-06-23,,Aurelio Arcabascio,FALSE,Candidacy declared
+NY,14,U.S. House New York District 14,FALSE,2026-06-23,,Tina Forte,FALSE,Candidacy declared
+NY,14,U.S. House New York District 14,FALSE,2026-06-23,,Diamant Hysenaj,FALSE,Candidacy declared
+NY,14,U.S. House New York District 14,FALSE,2026-06-23,,Ariel Rivera-Diaz,FALSE,Candidacy declared
+NY,15,U.S. House New York District 15,FALSE,2026-06-23,,Stylo A. Sapaskis,FALSE,Candidacy declared
+NY,16,U.S. House New York District 16,FALSE,2026-06-23,,Joseph Cinquemani,FALSE,Candidacy declared
+NY,17,U.S. House New York District 17,FALSE,2026-06-23,,Michael Lawler,TRUE,Candidacy declared
+NY,18,U.S. House New York District 18,FALSE,2026-06-23,,Sharanjit Thind,FALSE,Candidacy declared
+NY,19,U.S. House New York District 19,FALSE,2026-06-23,,Peter Oberacker,FALSE,Candidacy declared
+NY,19,U.S. House New York District 19,FALSE,2026-06-23,,Alexander Portelli,FALSE,Candidacy declared
+NY,20,U.S. House New York District 20,FALSE,2026-06-23,,Ralph Ambrosio,FALSE,Candidacy declared
+NY,21,U.S. House New York District 21,FALSE,2026-06-23,,Anthony Constantino,FALSE,Candidacy declared
+NY,21,U.S. House New York District 21,FALSE,2026-06-23,,Robert Smullen,FALSE,Candidacy declared
+NY,22,U.S. House New York District 22,FALSE,2026-06-23,,Kailee Buller,FALSE,Candidacy declared
+NY,23,U.S. House New York District 23,FALSE,2026-06-23,,Nick Langworthy,TRUE,Candidacy declared
+NY,24,U.S. House New York District 24,FALSE,2026-06-23,,Claudia Tenney,TRUE,Candidacy declared
+NY,24,U.S. House New York District 24,FALSE,2026-06-23,,John McDairmant,FALSE,Candidacy declared
+NY,25,U.S. House New York District 25,FALSE,2026-06-23,,Virginia McIntyre,FALSE,Candidacy declared
+NY,26,U.S. House New York District 26,FALSE,2026-06-23,,Dennis Hannon,FALSE,Candidacy declared
+NC,1,U.S. House North Carolina District 1,FALSE,2026-03-03,2026-05-12,Laurie Buckhout,FALSE,Advanced
+NC,1,U.S. House North Carolina District 1,FALSE,2026-03-03,2026-05-12,Asa Buck,FALSE,Lost
+NC,1,U.S. House North Carolina District 1,FALSE,2026-03-03,2026-05-12,Robert Hanig,FALSE,Lost
+NC,1,U.S. House North Carolina District 1,FALSE,2026-03-03,2026-05-12,Eric Rouse,FALSE,Lost
+NC,1,U.S. House North Carolina District 1,FALSE,2026-03-03,2026-05-12,Ashley-Nicole Russell,FALSE,Lost
+NC,5,U.S. House North Carolina District 5,FALSE,2026-03-03,2026-05-12,Virginia Foxx,TRUE,Advanced
+NC,5,U.S. House North Carolina District 5,FALSE,2026-03-03,2026-05-12,Steve Girard,FALSE,Lost
+NC,5,U.S. House North Carolina District 5,FALSE,2026-03-03,2026-05-12,Joseph Osborne,FALSE,Lost
+NC,5,U.S. House North Carolina District 5,FALSE,2026-03-03,2026-05-12,Roman Williams II,FALSE,Lost
+NC,7,U.S. House North Carolina District 7,FALSE,2026-03-03,2026-05-12,David Rouzer,TRUE,Advanced
+NC,7,U.S. House North Carolina District 7,FALSE,2026-03-03,2026-05-12,David Buzzard,FALSE,Lost
+NC,10,U.S. House North Carolina District 10,FALSE,2026-03-03,2026-05-12,Pat Harrigan,TRUE,Advanced
+NC,10,U.S. House North Carolina District 10,FALSE,2026-03-03,2026-05-12,Matthew Sin,FALSE,Lost
+NC,11,U.S. House North Carolina District 11,FALSE,2026-03-03,2026-05-12,Chuck Edwards,TRUE,Advanced
+NC,11,U.S. House North Carolina District 11,FALSE,2026-03-03,2026-05-12,Adam Smith,FALSE,Lost
+NC,12,U.S. House North Carolina District 12,FALSE,2026-03-03,2026-05-12,Jack Codiga,FALSE,Advanced
+NC,12,U.S. House North Carolina District 12,FALSE,2026-03-03,2026-05-12,Addul Ali,FALSE,Lost
+NC,13,U.S. House North Carolina District 13,FALSE,2026-03-03,2026-05-12,Brad Knott,TRUE,Advanced
+NC,13,U.S. House North Carolina District 13,FALSE,2026-03-03,2026-05-12,Sid Sharma,FALSE,Lost
+NC,14,U.S. House North Carolina District 14,FALSE,2026-03-03,2026-05-12,Timothy K. Moore,TRUE,Advanced
+NC,14,U.S. House North Carolina District 14,FALSE,2026-03-03,2026-05-12,Kate Barr,FALSE,Lost
+ND,1,U.S. House North Dakota At-large District,FALSE,2026-06-09,,Julie Fedorchak,TRUE,On the ballot
+ND,1,U.S. House North Dakota At-large District,FALSE,2026-06-09,,Alex Balazs,FALSE,On the ballot
+OH,1,U.S. House Ohio District 1,FALSE,2026-05-05,,Holly Adams,FALSE,On the ballot
+OH,1,U.S. House Ohio District 1,FALSE,2026-05-05,,Eric Conroy,FALSE,On the ballot
+OH,1,U.S. House Ohio District 1,FALSE,2026-05-05,,Steven Erbeck,FALSE,Unofficially withdrew
+OH,1,U.S. House Ohio District 1,FALSE,2026-05-05,,Rosemary Oglesby-Henry,FALSE,On the ballot
+OH,2,U.S. House Ohio District 2,FALSE,2026-05-05,,David Taylor,TRUE,On the ballot
+OH,2,U.S. House Ohio District 2,FALSE,2026-05-05,,Bob Carr,FALSE,On the ballot
+OH,3,U.S. House Ohio District 3,FALSE,2026-05-05,,Cleophus Dulaney,FALSE,On the ballot
+OH,4,U.S. House Ohio District 4,FALSE,2026-05-05,,Jim Jordan,TRUE,On the ballot
+OH,5,U.S. House Ohio District 5,FALSE,2026-05-05,,Bob Latta,TRUE,On the ballot
+OH,6,U.S. House Ohio District 6,FALSE,2026-05-05,,Michael Rulli,TRUE,On the ballot
+OH,6,U.S. House Ohio District 6,FALSE,2026-05-05,,Jullie Kelley,FALSE,On the ballot
+OH,7,U.S. House Ohio District 7,FALSE,2026-05-05,,Max Miller,TRUE,On the ballot
+OH,8,U.S. House Ohio District 8,FALSE,2026-05-05,,Warren Davidson,TRUE,On the ballot
+OH,9,U.S. House Ohio District 9,FALSE,2026-05-05,,Anthony Campbell,FALSE,On the ballot
+OH,9,U.S. House Ohio District 9,FALSE,2026-05-05,,Derek Merrin,FALSE,On the ballot
+OH,9,U.S. House Ohio District 9,FALSE,2026-05-05,,Alea Nadeem,FALSE,On the ballot
+OH,9,U.S. House Ohio District 9,FALSE,2026-05-05,,Madison Sheahan,FALSE,On the ballot
+OH,9,U.S. House Ohio District 9,FALSE,2026-05-05,,Josh Williams,FALSE,On the ballot
+OH,10,U.S. House Ohio District 10,FALSE,2026-05-05,,Michael Turner,TRUE,On the ballot
+OH,11,U.S. House Ohio District 11,FALSE,2026-05-05,,James Hemphill,FALSE,On the ballot
+OH,11,U.S. House Ohio District 11,FALSE,2026-05-05,,Mike Kirchner,FALSE,On the ballot
+OH,12,U.S. House Ohio District 12,FALSE,2026-05-05,,Troy Balderson,TRUE,On the ballot
+OH,13,U.S. House Ohio District 13,FALSE,2026-05-05,,Margaret Briem,FALSE,On the ballot
+OH,13,U.S. House Ohio District 13,FALSE,2026-05-05,,Carey Coleman,FALSE,On the ballot
+OH,13,U.S. House Ohio District 13,FALSE,2026-05-05,,Sanjin Drakovac,FALSE,On the ballot
+OH,13,U.S. House Ohio District 13,FALSE,2026-05-05,,Neil Patel,FALSE,On the ballot
+OH,13,U.S. House Ohio District 13,FALSE,2026-05-05,,Kevin Siembida,FALSE,On the ballot
+OH,14,U.S. House Ohio District 14,FALSE,2026-05-05,,David Joyce,TRUE,On the ballot
+OH,14,U.S. House Ohio District 14,FALSE,2026-05-05,,Nicole Frenchko,FALSE,On the ballot
+OH,15,U.S. House Ohio District 15,FALSE,2026-05-05,,Mike Carey,TRUE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Nathan Butterfield,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Jed Cochran,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Kim David,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Nancy Dyson,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Courtney Gill,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Jackson Lahmeyer,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Dan Rooney,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Paul Royse,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Mark Tedford,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Kelly Walsh,FALSE,On the ballot
+OK,1,U.S. House Oklahoma District 1,FALSE,2026-06-16,,Todd Woods,FALSE,On the ballot
+OK,2,U.S. House Oklahoma District 2,FALSE,2026-06-16,,Josh Brecheen,TRUE,On the ballot
+OK,2,U.S. House Oklahoma District 2,FALSE,2026-06-16,,William Webb,FALSE,On the ballot
+OK,3,U.S. House Oklahoma District 3,FALSE,2026-06-16,,Frank Lucas,TRUE,On the ballot
+OK,3,U.S. House Oklahoma District 3,FALSE,2026-06-16,,Wade Burleson,FALSE,On the ballot
+OK,4,U.S. House Oklahoma District 4,FALSE,2026-06-16,,Tom Cole,TRUE,On the ballot
+OK,4,U.S. House Oklahoma District 4,FALSE,2026-06-16,,Marcie Everhart,FALSE,On the ballot
+OR,1,U.S. House Oregon District 1,FALSE,2026-05-19,,Barbara Kahl,FALSE,On the ballot
+OR,1,U.S. House Oregon District 1,FALSE,2026-05-19,,John Verbeek,FALSE,On the ballot
+OR,2,U.S. House Oregon District 2,FALSE,2026-05-19,,Cliff Bentz,TRUE,On the ballot
+OR,2,U.S. House Oregon District 2,FALSE,2026-05-19,,Andrea Carr,FALSE,On the ballot
+OR,2,U.S. House Oregon District 2,FALSE,2026-05-19,,Peter Larson,FALSE,On the ballot
+OR,3,U.S. House Oregon District 3,FALSE,2026-05-19,,Loran Ayles,FALSE,On the ballot
+OR,4,U.S. House Oregon District 4,FALSE,2026-05-19,,Monique DeSpain,FALSE,On the ballot
+OR,4,U.S. House Oregon District 4,FALSE,2026-05-19,,Stefan Strek,FALSE,On the ballot
+OR,5,U.S. House Oregon District 5,FALSE,2026-05-19,,Patti Adair,FALSE,On the ballot
+OR,5,U.S. House Oregon District 5,FALSE,2026-05-19,,Jonathan Lockwood,FALSE,On the ballot
+OR,6,U.S. House Oregon District 6,FALSE,2026-05-19,,David Russ,FALSE,On the ballot
+PA,1,U.S. House Pennsylvania District 1,FALSE,2026-05-19,,Brian Fitzpatrick,TRUE,On the ballot
+PA,2,U.S. House Pennsylvania District 2,FALSE,2026-05-19,,Jessica Arriaga,FALSE,On the ballot
+PA,4,U.S. House Pennsylvania District 4,FALSE,2026-05-19,,Aurora Stuski,FALSE,On the ballot
+PA,5,U.S. House Pennsylvania District 5,FALSE,2026-05-19,,Nick Manganaro,FALSE,On the ballot
+PA,6,U.S. House Pennsylvania District 6,FALSE,2026-05-19,,Marty Young,FALSE,On the ballot
+PA,7,U.S. House Pennsylvania District 7,FALSE,2026-05-19,,Ryan Mackenzie,TRUE,On the ballot
+PA,8,U.S. House Pennsylvania District 8,FALSE,2026-05-19,,Rob Bresnahan Jr.,TRUE,On the ballot
+PA,9,U.S. House Pennsylvania District 9,FALSE,2026-05-19,,Dan Meuser,TRUE,On the ballot
+PA,10,U.S. House Pennsylvania District 10,FALSE,2026-05-19,,Scott Perry,TRUE,On the ballot
+PA,11,U.S. House Pennsylvania District 11,FALSE,2026-05-19,,Lloyd Smucker,TRUE,On the ballot
+PA,12,U.S. House Pennsylvania District 12,FALSE,2026-05-19,,James Hayes,FALSE,On the ballot
+PA,13,U.S. House Pennsylvania District 13,FALSE,2026-05-19,,John Joyce,TRUE,On the ballot
+PA,14,U.S. House Pennsylvania District 14,FALSE,2026-05-19,,Guy Reschenthaler,TRUE,On the ballot
+PA,15,U.S. House Pennsylvania District 15,FALSE,2026-05-19,,Glenn Thompson,TRUE,On the ballot
+PA,16,U.S. House Pennsylvania District 16,FALSE,2026-05-19,,Mike Kelly,TRUE,On the ballot
+PA,17,U.S. House Pennsylvania District 17,FALSE,2026-05-19,,Tony Guy,FALSE,On the ballot
+PA,17,U.S. House Pennsylvania District 17,FALSE,2026-05-19,,Jesse Vodvarka,FALSE,On the ballot
+RI,2,U.S. House Rhode Island District 2,FALSE,2026-09-08,,Victor Mellor,FALSE,Candidacy declared
+RI,2,U.S. House Rhode Island District 2,FALSE,2026-09-08,,Stephen Skoly,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Mark Sanford,FALSE,Unofficially withdrew
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Dan Brown,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Jay Byars,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Logan Cunningham,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Tyler Dykes,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Jack Ellison,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Jenny Honeycutt,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Kendal Ludden,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Sam McCown,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Alex Pelbath,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Cindy Riley,FALSE,Candidacy declared
+SC,1,U.S. House South Carolina District 1,FALSE,2026-06-09,2026-06-23,Mark Smith,FALSE,Candidacy declared
+SC,2,U.S. House South Carolina District 2,FALSE,2026-06-09,2026-06-23,Joe Wilson,TRUE,Candidacy declared
+SC,2,U.S. House South Carolina District 2,FALSE,2026-06-09,2026-06-23,Sam Gibbons,FALSE,Candidacy declared
+SC,2,U.S. House South Carolina District 2,FALSE,2026-06-09,2026-06-23,Hamp Redmond,FALSE,Candidacy declared
+SC,3,U.S. House South Carolina District 3,FALSE,2026-06-09,2026-06-23,Sheri Biggs,TRUE,Candidacy declared
+SC,4,U.S. House South Carolina District 4,FALSE,2026-06-09,2026-06-23,William Timmons,TRUE,Candidacy declared
+SC,4,U.S. House South Carolina District 4,FALSE,2026-06-09,2026-06-23,David Atchley,FALSE,Candidacy declared
+SC,4,U.S. House South Carolina District 4,FALSE,2026-06-09,2026-06-23,Robert Lee,FALSE,Candidacy declared
+SC,5,U.S. House South Carolina District 5,FALSE,2026-06-09,2026-06-23,Bill Bledsoe,FALSE,Candidacy declared
+SC,5,U.S. House South Carolina District 5,FALSE,2026-06-09,2026-06-23,Wes Climer,FALSE,Candidacy declared
+SC,6,U.S. House South Carolina District 6,FALSE,2026-06-09,2026-06-23,John Peterson,FALSE,Candidacy declared
+SC,6,U.S. House South Carolina District 6,FALSE,2026-06-09,2026-06-23,Maurice Washington,FALSE,Candidacy declared
+SC,7,U.S. House South Carolina District 7,FALSE,2026-06-09,2026-06-23,Russell Fry,TRUE,Candidacy declared
+SC,7,U.S. House South Carolina District 7,FALSE,2026-06-09,2026-06-23,Branden Brown,FALSE,Candidacy declared
+SC,7,U.S. House South Carolina District 7,FALSE,2026-06-09,2026-06-23,Adam Moye,FALSE,Candidacy declared
+SD,1,U.S. House South Dakota At-large District,FALSE,2026-06-02,,James Bialota,FALSE,Candidacy declared
+SD,1,U.S. House South Dakota At-large District,FALSE,2026-06-02,,Marty J. Jackley,FALSE,Candidacy declared
+TN,1,U.S. House Tennessee District 1,FALSE,2026-08-06,,Diana Harshbarger,TRUE,On the ballot
+TN,2,U.S. House Tennessee District 2,FALSE,2026-08-06,,Tim Burchett,TRUE,On the ballot
+TN,3,U.S. House Tennessee District 3,FALSE,2026-08-06,,Charles J. Fleischmann,TRUE,On the ballot
+TN,4,U.S. House Tennessee District 4,FALSE,2026-08-06,,Scott DesJarlais,TRUE,On the ballot
+TN,4,U.S. House Tennessee District 4,FALSE,2026-08-06,,Thomas Davis,FALSE,On the ballot
+TN,4,U.S. House Tennessee District 4,FALSE,2026-08-06,,Harold Jones,FALSE,On the ballot
+TN,5,U.S. House Tennessee District 5,FALSE,2026-08-06,,Andy Ogles,TRUE,On the ballot
+TN,5,U.S. House Tennessee District 5,FALSE,2026-08-06,,Charlie Hatcher,FALSE,On the ballot
+TN,6,U.S. House Tennessee District 6,FALSE,2026-08-06,,Natisha Brooks,FALSE,On the ballot
+TN,6,U.S. House Tennessee District 6,FALSE,2026-08-06,,Johnny Garrett,FALSE,On the ballot
+TN,6,U.S. House Tennessee District 6,FALSE,2026-08-06,,Jon Henry,FALSE,On the ballot
+TN,6,U.S. House Tennessee District 6,FALSE,2026-08-06,,Van Hilleary,FALSE,On the ballot
+TN,7,U.S. House Tennessee District 7,FALSE,2026-08-06,,Matt Van Epps,TRUE,On the ballot
+TN,8,U.S. House Tennessee District 8,FALSE,2026-08-06,,David Kustoff,TRUE,On the ballot
+TN,9,U.S. House Tennessee District 9,FALSE,2026-08-06,,Charlotte Bergmann,FALSE,On the ballot
+TN,9,U.S. House Tennessee District 9,FALSE,2026-08-06,,Kevin Young,FALSE,On the ballot
+TX,1,U.S. House Texas District 1,FALSE,2026-03-03,2026-05-26,Nathaniel Moran,TRUE,Advanced
+TX,2,U.S. House Texas District 2,FALSE,2026-03-03,2026-05-26,Steve Toth,FALSE,Advanced
+TX,2,U.S. House Texas District 2,FALSE,2026-03-03,2026-05-26,Daniel Crenshaw,TRUE,Lost
+TX,2,U.S. House Texas District 2,FALSE,2026-03-03,2026-05-26,Martin Etwop,FALSE,Lost
+TX,2,U.S. House Texas District 2,FALSE,2026-03-03,2026-05-26,Nicholas Plumb,FALSE,Lost
+TX,3,U.S. House Texas District 3,FALSE,2026-03-03,2026-05-26,Keith Self,TRUE,Advanced
+TX,3,U.S. House Texas District 3,FALSE,2026-03-03,2026-05-26,Mark Newgent,FALSE,Lost
+TX,4,U.S. House Texas District 4,FALSE,2026-03-03,2026-05-26,Pat Fallon,TRUE,Advanced
+TX,4,U.S. House Texas District 4,FALSE,2026-03-03,2026-05-26,Don Horn,FALSE,Lost
+TX,5,U.S. House Texas District 5,FALSE,2026-03-03,2026-05-26,Lance Gooden,TRUE,Advanced
+TX,6,U.S. House Texas District 6,FALSE,2026-03-03,2026-05-26,Jake Ellzey,TRUE,Advanced
+TX,6,U.S. House Texas District 6,FALSE,2026-03-03,2026-05-26,James Buford,FALSE,Lost
+TX,6,U.S. House Texas District 6,FALSE,2026-03-03,2026-05-26,Brian Stahl,FALSE,Lost
+TX,7,U.S. House Texas District 7,FALSE,2026-03-03,2026-05-26,Tina Blum Cohen,FALSE,Runoff
+TX,7,U.S. House Texas District 7,FALSE,2026-03-03,2026-05-26,Alexander Hale,FALSE,Runoff
+TX,7,U.S. House Texas District 7,FALSE,2026-03-03,2026-05-26,Alexander Kalai,FALSE,Lost
+TX,7,U.S. House Texas District 7,FALSE,2026-03-03,2026-05-26,Erin Montgomery,FALSE,Lost
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Jessica Steinmann,FALSE,Advanced
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Jay Fondren,FALSE,Lost
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Brett Jensen,FALSE,Lost
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Stephen Long,FALSE,Lost
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Nick Tran,FALSE,Lost
+TX,8,U.S. House Texas District 8,FALSE,2026-03-03,2026-05-26,Deddrick Wilmer,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Briscoe Cain,FALSE,Runoff
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Alex Mealer,FALSE,Runoff
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Jaimy Annette Zoboulikos-Blanco,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Michael Curran,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Dan Mims,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Crystal Sarmiento,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Steve Stockman,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Dwayne Stovall,FALSE,Lost
+TX,9,U.S. House Texas District 9,FALSE,2026-03-03,2026-05-26,Terry Lee Thain,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Chris Gober,FALSE,Advanced
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Rob Altman,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Ben Bius,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Robert Brown,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Jenny Garcia Sharon,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Brandon Hawbaker,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Jessica Karlsruher,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Kara King,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Scott MacLeod,FALSE,Lost
+TX,10,U.S. House Texas District 10,FALSE,2026-03-03,2026-05-26,Jeremy Story,FALSE,Lost
+TX,11,U.S. House Texas District 11,FALSE,2026-03-03,2026-05-26,August Pfluger,TRUE,Advanced
+TX,12,U.S. House Texas District 12,FALSE,2026-03-03,2026-05-26,Craig Goldman,TRUE,Advanced
+TX,13,U.S. House Texas District 13,FALSE,2026-03-03,2026-05-26,Ronny L. Jackson,TRUE,Advanced
+TX,13,U.S. House Texas District 13,FALSE,2026-03-03,2026-05-26,Chasity Wedgeworth,FALSE,Lost
+TX,14,U.S. House Texas District 14,FALSE,2026-03-03,2026-05-26,Randy Weber,TRUE,Advanced
+TX,14,U.S. House Texas District 14,FALSE,2026-03-03,2026-05-26,Jessica Forgy,FALSE,Lost
+TX,15,U.S. House Texas District 15,FALSE,2026-03-03,2026-05-26,Monica De La Cruz,TRUE,Advanced
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Manuel Barraza,FALSE,Runoff
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Adam Bauman,FALSE,Runoff
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Hector Cabildo,FALSE,Lost
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Raul Castaneda,FALSE,Lost
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Marisela Chavez,FALSE,Lost
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Deliris Montanez,FALSE,Lost
+TX,16,U.S. House Texas District 16,FALSE,2026-03-03,2026-05-26,Ruben Rios,FALSE,Lost
+TX,17,U.S. House Texas District 17,FALSE,2026-03-03,2026-05-26,Pete Sessions,TRUE,Advanced
+TX,18,U.S. House Texas District 18,FALSE,2026-03-03,2026-05-26,Ronald Whitfield,FALSE,Advanced
+TX,18,U.S. House Texas District 18,FALSE,2026-03-03,2026-05-26,Elizabeth Vences,FALSE,Lost
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Abraham Enriquez,FALSE,Runoff
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Tom Sell,FALSE,Runoff
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,James Barbee,FALSE,Lost
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Jason Corley,FALSE,Lost
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Donald May,FALSE,Lost
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Matthew Smith,FALSE,Lost
+TX,19,U.S. House Texas District 19,FALSE,2026-03-03,2026-05-26,Ryan Zink,FALSE,Lost
+TX,20,U.S. House Texas District 20,FALSE,2026-03-03,2026-05-26,Edgardo Baez,FALSE,Advanced
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Mark Teixeira,FALSE,Advanced
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Daniel Betts,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Jason Cahill,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Jacques DuBose,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Ezekiel Enriquez,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Weston Martinez,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Paul Rojas,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Kyle Sinclair,FALSE,Lost (unofficially withdrew)
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Heather Tessmer,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Trey Trainor,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Peggy Wardlaw,FALSE,Lost
+TX,21,U.S. House Texas District 21,FALSE,2026-03-03,2026-05-26,Mike Wheeler,FALSE,Lost
+TX,22,U.S. House Texas District 22,FALSE,2026-03-03,2026-05-26,Trever Nehls,FALSE,Advanced
+TX,22,U.S. House Texas District 22,FALSE,2026-03-03,2026-05-26,Rebecca Clark,FALSE,Lost
+TX,23,U.S. House Texas District 23,FALSE,2026-03-03,2026-05-26,Brandon Herrera,FALSE,Advanced
+TX,23,U.S. House Texas District 23,FALSE,2026-03-03,2026-05-26,Keith Barton,FALSE,Lost
+TX,23,U.S. House Texas District 23,FALSE,2026-03-03,2026-05-26,Francisco Canseco,FALSE,Lost
+TX,23,U.S. House Texas District 23,FALSE,2026-03-03,2026-05-26,Tony Gonzales,FALSE,Withdrew
+TX,24,U.S. House Texas District 24,FALSE,2026-03-03,2026-05-26,Beth Van Duyne,TRUE,Advanced
+TX,25,U.S. House Texas District 25,FALSE,2026-03-03,2026-05-26,Roger Williams,TRUE,Advanced
+TX,26,U.S. House Texas District 26,FALSE,2026-03-03,2026-05-26,Brandon Gill,TRUE,Advanced
+TX,26,U.S. House Texas District 26,FALSE,2026-03-03,2026-05-26,Robert Chick,FALSE,Lost
+TX,27,U.S. House Texas District 27,FALSE,2026-03-03,2026-05-26,Michael Cloud,TRUE,Advanced
+TX,27,U.S. House Texas District 27,FALSE,2026-03-03,2026-05-26,Chris Hatley,FALSE,Lost
+TX,28,U.S. House Texas District 28,FALSE,2026-03-03,2026-05-26,Tano Tijerina,FALSE,Advanced
+TX,28,U.S. House Texas District 28,FALSE,2026-03-03,2026-05-26,Eileen Day,FALSE,Lost
+TX,29,U.S. House Texas District 29,FALSE,2026-03-03,2026-05-26,Martha Fierro,FALSE,Advanced
+TX,30,U.S. House Texas District 30,FALSE,2026-03-03,2026-05-26,Sholdon Daniels,FALSE,Runoff
+TX,30,U.S. House Texas District 30,FALSE,2026-03-03,2026-05-26,Everett Jackson,FALSE,Runoff
+TX,30,U.S. House Texas District 30,FALSE,2026-03-03,2026-05-26,Gregor Heise,FALSE,Lost
+TX,30,U.S. House Texas District 30,FALSE,2026-03-03,2026-05-26,Nils Walker,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,John Carter,TRUE,Advanced
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,William Abel,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,David Berry,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Steven Dowell,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Ed Ewald,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Abhiram Garapati,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Valentina Gomez Noriega,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Raymond Hamden,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Elvis Lossa,FALSE,Lost
+TX,31,U.S. House Texas District 31,FALSE,2026-03-03,2026-05-26,Offer Vince Shlomi,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Jace Yarbrough,FALSE,Advanced
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Paul Bondar,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Aimee Carrasco,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Darrell Day,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Gordon Heslop,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Monty Montanez,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,James Ussery,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Abteen Vaziri,FALSE,Lost
+TX,32,U.S. House Texas District 32,FALSE,2026-03-03,2026-05-26,Ryan Binkley,FALSE,Withdrew
+TX,33,U.S. House Texas District 33,FALSE,2026-03-03,2026-05-26,Patrick Gillespie,FALSE,Runoff
+TX,33,U.S. House Texas District 33,FALSE,2026-03-03,2026-05-26,John Sims,FALSE,Runoff
+TX,33,U.S. House Texas District 33,FALSE,2026-03-03,2026-05-26,Monte Mitchell,FALSE,Lost
+TX,33,U.S. House Texas District 33,FALSE,2026-03-03,2026-05-26,Kurt L. Schwab,FALSE,Lost
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Eric Flores,FALSE,Advanced
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Keith Allen,FALSE,Lost
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Luis Buentello,FALSE,Lost
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Mayra Flores,FALSE,Lost
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Fred Hinojosa,FALSE,Lost (unofficially withdrew)
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Gregory Kunkle Jr.,FALSE,Lost
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Scott Mandel,FALSE,Lost (unofficially withdrew)
+TX,34,U.S. House Texas District 34,FALSE,2026-03-03,2026-05-26,Jay Nagy,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Carlos De La Cruz,FALSE,Runoff
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,John Lujan,FALSE,Runoff
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Randy Adams,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Joshua Cortez,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Mark Eberwine,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Jay Furman,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Vanessa Hicks-Callaway,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Ryan Krause,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Larry La Rose,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Rod Lingsch,FALSE,Lost
+TX,35,U.S. House Texas District 35,FALSE,2026-03-03,2026-05-26,Steven Wright,FALSE,Lost
+TX,36,U.S. House Texas District 36,FALSE,2026-03-03,2026-05-26,Brian Babin,TRUE,Advanced
+TX,36,U.S. House Texas District 36,FALSE,2026-03-03,2026-05-26,Jonathan Mitchell,FALSE,Lost
+TX,37,U.S. House Texas District 37,FALSE,2026-03-03,2026-05-26,Ge'Nell Gary,FALSE,Runoff
+TX,37,U.S. House Texas District 37,FALSE,2026-03-03,2026-05-26,Lauren Peña,FALSE,Runoff
+TX,37,U.S. House Texas District 37,FALSE,2026-03-03,2026-05-26,Janet Malzahn,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Jon Bonck,FALSE,Runoff
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Shelly deZevallos,FALSE,Runoff
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Avery Ayers,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Craig Goralski,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Barrett McNabb,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Carmen Montiel,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Michael Pratt,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Larry Rubin,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Jennifer Sundt,FALSE,Lost
+TX,38,U.S. House Texas District 38,FALSE,2026-03-03,2026-05-26,Jeff Yuna,FALSE,Lost
+UT,2,U.S. House Utah District 2,FALSE,2026-06-23,,Blake Moore,TRUE,On the ballot
+UT,2,U.S. House Utah District 2,FALSE,2026-06-23,,Karianne Lisonbee,FALSE,On the ballot
+UT,3,U.S. House Utah District 3,FALSE,2026-06-23,,Celeste Maloy,TRUE,On the ballot
+UT,3,U.S. House Utah District 3,FALSE,2026-06-23,,Phil Lyman,FALSE,On the ballot
+VT,1,U.S. House Vermont At-large District,FALSE,2026-08-11,,Mark Coester,FALSE,Candidacy declared
+VA,1,U.S. House Virginia District 1,FALSE,2026-08-04,,Robert J. Wittman,TRUE,Candidacy declared
+VA,2,U.S. House Virginia District 2,FALSE,2026-08-04,,Jennifer Kiggans,TRUE,Candidacy declared
+VA,2,U.S. House Virginia District 2,FALSE,2026-08-04,,William Matthews,FALSE,Candidacy declared
+VA,5,U.S. House Virginia District 5,FALSE,2026-08-04,,John McGuire,TRUE,Candidacy declared
+VA,5,U.S. House Virginia District 5,FALSE,2026-08-04,,Bob Good,FALSE,Candidacy declared
+VA,5,U.S. House Virginia District 5,FALSE,2026-08-04,,Melanie Lucero,FALSE,Candidacy declared
+VA,6,U.S. House Virginia District 6,FALSE,2026-08-04,,Benjamin Lee Cline,TRUE,Candidacy declared
+VA,7,U.S. House Virginia District 7,FALSE,2026-08-04,,Tara Durant,FALSE,Candidacy declared
+VA,7,U.S. House Virginia District 7,FALSE,2026-08-04,,John Gray,FALSE,Candidacy declared
+VA,7,U.S. House Virginia District 7,FALSE,2026-08-04,,Darius Mayfield,FALSE,Candidacy declared
+VA,7,U.S. House Virginia District 7,FALSE,2026-08-04,,Douglas Ollivant,FALSE,Candidacy declared
+VA,7,U.S. House Virginia District 7,FALSE,2026-08-04,,Waverly Washington,FALSE,Candidacy declared
+VA,8,U.S. House Virginia District 8,FALSE,2026-08-04,,Heerak Christian Kim,FALSE,Candidacy declared
+VA,8,U.S. House Virginia District 8,FALSE,2026-08-04,,Luke Nathan Phillips,FALSE,Candidacy declared
+VA,8,U.S. House Virginia District 8,FALSE,2026-08-04,,Tony Sabio,FALSE,Candidacy declared
+VA,9,U.S. House Virginia District 9,FALSE,2026-08-04,,H. Morgan Griffith,TRUE,Candidacy declared
+VA,9,U.S. House Virginia District 9,FALSE,2026-08-04,,Brandon Cook,FALSE,Candidacy declared
+VA,10,U.S. House Virginia District 10,FALSE,2026-08-04,,Julie Perry,FALSE,Candidacy declared
+VA,10,U.S. House Virginia District 10,FALSE,2026-08-04,,Sam Wong,FALSE,Candidacy declared
+VA,11,U.S. House Virginia District 11,FALSE,2026-08-04,,Nathan Headrick,FALSE,Candidacy declared
+WA,3,U.S. House Washington District 3,FALSE,2026-08-04,,John Braun,FALSE,Candidacy declared
+WA,3,U.S. House Washington District 3,FALSE,2026-08-04,,Lawrence Kellogg,FALSE,Candidacy declared
+WA,3,U.S. House Washington District 3,FALSE,2026-08-04,,Wadi Yakhour,FALSE,Candidacy declared
+WA,4,U.S. House Washington District 4,FALSE,2026-08-04,,Matt Boehnke,FALSE,Candidacy declared
+WA,4,U.S. House Washington District 4,FALSE,2026-08-04,,John Hughs,FALSE,Candidacy declared
+WA,4,U.S. House Washington District 4,FALSE,2026-08-04,,Amanda McKinney,FALSE,Candidacy declared
+WA,4,U.S. House Washington District 4,FALSE,2026-08-04,,Wesley Meier,FALSE,Candidacy declared
+WA,4,U.S. House Washington District 4,FALSE,2026-08-04,,Jerrod Sessler,FALSE,Candidacy declared
+WA,5,U.S. House Washington District 5,FALSE,2026-08-04,,Michael Baumgartner,TRUE,Candidacy declared
+WA,5,U.S. House Washington District 5,FALSE,2026-08-04,,Anthony Jensen,FALSE,Candidacy declared
+WA,6,U.S. House Washington District 6,FALSE,2026-08-04,,Teresa Fox,FALSE,Candidacy declared
+WA,6,U.S. House Washington District 6,FALSE,2026-08-04,,Leon Lawson,FALSE,Candidacy declared
+WA,7,U.S. House Washington District 7,FALSE,2026-08-04,,Nirav Sheth,FALSE,Candidacy declared
+WA,8,U.S. House Washington District 8,FALSE,2026-08-04,,Trinh Ha,FALSE,Candidacy declared
+WA,8,U.S. House Washington District 8,FALSE,2026-08-04,,Bob Hagglund,FALSE,Candidacy declared
+WA,8,U.S. House Washington District 8,FALSE,2026-08-04,,Spencer Meline,FALSE,Candidacy declared
+WA,8,U.S. House Washington District 8,FALSE,2026-08-04,,Andres Valleza,FALSE,Candidacy declared
+WA,9,U.S. House Washington District 9,FALSE,2026-08-04,,Janis Clark,FALSE,Candidacy declared
+WA,9,U.S. House Washington District 9,FALSE,2026-08-04,,C. Mark Greene,FALSE,Candidacy declared
+VA,1,U.S. House West Virginia District 1,FALSE,2026-08-04,,Carol Miller,TRUE,On the ballot
+VA,1,U.S. House West Virginia District 1,FALSE,2026-08-04,,Larry Jackson,FALSE,On the ballot
+VA,2,U.S. House West Virginia District 2,FALSE,2026-08-04,,Riley Moore,TRUE,On the ballot
+WI,1,U.S. House Wisconsin District 1,FALSE,2026-08-11,,Bryan Steil,TRUE,Candidacy declared
+WI,1,U.S. House Wisconsin District 1,FALSE,2026-08-11,,Connor Walleck,FALSE,Candidacy declared
+WI,2,U.S. House Wisconsin District 2,FALSE,2026-08-11,,Erik Olsen,FALSE,Candidacy declared
+WI,3,U.S. House Wisconsin District 3,FALSE,2026-08-11,,Derrick Van Orden,TRUE,Candidacy declared
+WI,4,U.S. House Wisconsin District 4,FALSE,2026-08-11,,Purnima Nath,FALSE,Candidacy declared
+WI,5,U.S. House Wisconsin District 5,FALSE,2026-08-11,,Scott Fitzgerald,TRUE,Candidacy declared
+WI,6,U.S. House Wisconsin District 6,FALSE,2026-08-11,,Glenn Grothman,TRUE,Candidacy declared
+WI,6,U.S. House Wisconsin District 6,FALSE,2026-08-11,,Jonathan Peetz,FALSE,Candidacy declared
+WI,7,U.S. House Wisconsin District 7,FALSE,2026-08-11,,Michael Alfonso,FALSE,Candidacy declared
+WI,7,U.S. House Wisconsin District 7,FALSE,2026-08-11,,Jessi Ebben,FALSE,Candidacy declared
+WI,7,U.S. House Wisconsin District 7,FALSE,2026-08-11,,Kevin Hermening,FALSE,Candidacy declared
+WI,7,U.S. House Wisconsin District 7,FALSE,2026-08-11,,Cheryl Ann Runkel,FALSE,Candidacy declared
+WI,7,U.S. House Wisconsin District 7,FALSE,2026-08-11,,Niina Threlfall-Baum,FALSE,Candidacy declared
+WI,8,U.S. House Wisconsin District 8,FALSE,2026-08-11,,Tony Wied,TRUE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Jillian Balow,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Bo Biteman,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Frank Chapman,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Kevin Christensen,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Stephen Friess,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,David Giralt,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Chuck Gray,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Matt McGinnis,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,Reid Rasner,FALSE,Candidacy declared
+WY,1,U.S. House Wyoming At-large District,FALSE,2026-08-18,,John Romero-Martinez,FALSE,Candidacy declared
